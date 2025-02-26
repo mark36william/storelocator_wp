@@ -90,6 +90,9 @@ define( 'WP_DEBUG', true );
 // define( 'SITE_ID_CURRENT_SITE', 1 );
 // define( 'BLOG_ID_CURRENT_SITE', 1 );
 
+// Shopify Integration Settings
+define('SHOPIFY_API_KEY', 'your_shopify_api_key');
+define('SHOPIFY_API_SECRET', 'your_shopify_api_secret');
 
 /* That's all, stop editing! Happy publishing. */
 
