@@ -1,0 +1,71 @@
+<li class="sl-item" data-id="{{:id}}">
+    {{if path}}
+    <div class="sl-img-cont"><img src="{{:URL}}Logo/{{:path}}" alt="" class="img-fluid" /></div>
+    {{/if}}
+    <div class="sl-addr-sec">
+        <h3>{{:title}}</h3>
+        {{if categories}}
+            <div class="sl-cat-tag">
+                <ul>
+                {{for categories}}
+                    <li>{{:name}}</li>
+                {{/for}}
+                </ul>
+            </div>
+        {{/if}}
+        <div class="addr-loc">
+            <ul>
+                <li class="sl-addr">
+                    <i class="icon-address-card-o"></i>  
+                    <span>{{:address}}</span>
+                </li>
+                {{if phone}}
+                <li class="sl-phone">
+                    <i class="icon-mobile-1"></i>
+                    <a href="tel:{{:phone}}">{{:phone}}</a>
+                </li>
+                {{/if}}
+                {{if email}}
+                <li class="sl-email">
+                    <i class="icon-mail"></i>
+                    <a href="mailto:{{:email}}">{{:email}}</a>
+                </li>
+                {{/if}}
+                {{if open_hours}}
+                <li class="sl-hours">
+                    <i class="icon-clock"></i>
+                    <span class="txt-hours">{{:open_hours}}</span>
+                </li>
+                {{/if}}
+                {{if link}}
+                <li class="sl-categories">
+                    <i class="icon-link"></i>
+                    <a target="{{:target}}" href="{{:link}}">[Website]</a>
+                </li>
+                {{/if}}
+            </ul>
+        </div>
+        {{if description}}
+        <div class="sl-row sl-desc">
+          {{if desc_link}}
+          <div class="pol-md-12"><a target="{{:target}}" class="sl-link">[View Description]</a></div>
+          {{else}}
+          <div class="pol-md-12"><p>{{:description}}</p></div>
+          {{/if}}
+        </div>
+        {{/if}}
+        {{:social_icons}}
+        <div class="sl-act-btns mt-2">
+            <div class="sl-row align-items-center">
+                <div class="pol-7 pr-0 sl-direction">
+                    <a class="btn btn-asl s-direction">[Directions]</a>
+                </div>
+                {{if dist_str}}
+                <div class="pol-5 pl-0">
+                    <span class="sl-dist-calc">{{:dist_str}}</span>
+                </div>
+                {{/if}}
+            </div>
+        </div>
+    </div>
+</li>

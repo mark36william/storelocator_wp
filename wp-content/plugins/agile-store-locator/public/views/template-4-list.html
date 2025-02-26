@@ -1,0 +1,61 @@
+<li class="pol-lg-4 pol-md-6 pol-sm-12 sl-item" data-id="{{:id}}">
+  <div class="sl-items-inner">
+    <div class="sl-addr-sec">
+      <div class="sl-logo-cont">
+        {{if path}}
+        <div class="sl-logo-box">
+          <img src="{{:URL}}Logo/{{:path}}">
+        </div>
+        {{/if}}
+        <div class="sl-title-bar">
+          <h3 class="sl-items-title">{{:title}}</h3>
+          {{if description}}
+          <p class="sl-short-decp">{{:description}}</p>
+          {{/if}}
+        </div>
+      </div>
+      <div class="addr-loc">
+          <div class="asl-addr">
+            <span>{{:address}}</span>
+          </div>
+          <ul class="asl-info-list">
+              {{if phone}}
+              <li>
+                  <i class="icon-mobile"></i>
+                  <a href="tel:{{:phone}}">{{:phone}}</a>
+              </li>
+              {{/if}}
+              {{if email}}
+              <li>
+                  <i class="icon-mail"></i>
+                  <a href="mailto:{{:email}}">{{:email}}</a>
+              </li>
+              {{/if}}
+              {{if open_hours}}
+              <li>
+                  <i class="icon-clock"></i>
+                  <span class="txt-hours">{{:open_hours}}</span>
+              </li>
+              {{/if}}
+              {{if days_str}}
+              <li>
+                  <i class="icon-clock"></i>
+                  <span class="txt-hours">{{:days_str}}</span>
+              </li>
+              {{/if}}
+          </ul>
+          <ul class="sl-cats">
+            {{for categories}}
+            <li class="sl-cats-title">
+              <img src="{{:URL}}svg/{{:icon}}" alt="{{:name}}" height="45">
+            </li>
+            {{/for}}
+          </ul>
+       </div>
+       <div class="sl-act-btns">
+          <a class="btn btn-asl sl-direction s-direction">[Directions]</a>
+          <a target="{{:target}}" class="sl-site-link" href="{{:link}}"><i class="icon-globe"></i></a>
+       </div>
+    </div>
+  </div>
+</li>

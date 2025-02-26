@@ -1,0 +1,24 @@
+{
+	"apiVersion": 2,
+	"name": "agile-store-locator/new-block",
+	"title": "Store Locator WordPress",
+	"icon": "grid-view",
+	"category": "widgets",
+	"supports": {
+		"anchor": true
+	},
+	"attributes": {
+		"title": {
+			"type": "string"
+		},
+		"content": {
+			"type": "string"
+		},
+		"backgroundcolor": {
+			"type": "string"
+		},
+		"textcolor": {
+			"type": "string"
+		}
+	}
+}

@@ -1,0 +1,46 @@
+.asl-cont {  align-items: center;  opacity: 1 !important;}
+
+
+.asl-cont .asl-detail-map {max-width: 991px !important;padding: 0 15px;height: 500px;background: #eee;margin-top: 1rem;}
+
+.asl-store-pg .img-box {	padding: 15px 17px;	border-radius: 5px;	background: #f8f8f8;	border: 1px solid #e3e3e3;}
+.asl-store-pg .img-box img {	width: 100%;    padding: 0;    border: none;    height: auto;    max-width: 100%;    border-radius: 5px;    background-color: transparent;}
+.asl-store-pg .asl-content-box .sl-store-title {	color: #01100e;	font-size: 24px;	font-weight: 700;}
+.asl-store-pg .asl-content-box .bottom-line {	width: 75px;	height: 2px;	margin: 0 0 12px 0;	background: #0b598a;	border-radius: 30px;}
+.asl-store-pg .asl-content-box .sl-address {	margin: 0;}
+.asl-store-pg .asl-content-box .sl-address .sl-store-info {	display: flex;	margin-bottom: 9px;}
+.asl-store-pg .asl-content-box .sl-address .sl-store-info i {    color: #0b598a;    margin-top: 0px;    margin-right: 18px;}
+.asl-store-pg .asl-content-box .sl-address .sl-store-info .fa-phone-volume {	margin-top: 2px;	transform: rotateZ(-35deg);}
+.asl-store-pg .asl-content-box .sl-address .sl-store-info p {	color: #6f6f6f;	font-size: 14px;	margin-bottom: 0;}
+.asl-store-pg .asl-content-box .sl-address .sl-store-info p a {	color: #6f6f6f;}
+.asl-store-pg .asl-content-box .sl-address .sl-store-info .sl-timings {	margin-top: 2px;}
+.asl-store-pg .asl-content-box .sl-address .sl-store-info .sl-timings .sl-day {	margin-bottom: 9px;}
+.asl-store-pg .asl-content-box .sl-address .sl-store-info .sl-timings .sl-day span {	color: #6f6f6f;	display: block;	font-size: 14px;	line-height: 1.3;	margin-bottom: 0;}
+.asl-store-pg .asl-content-box .sl-address .sl-store-info .sl-timings .sl-day .sl-day-lbl {	color: #01100e;  font-size: 14px;	font-weight: 600;}
+.asl-store-pg .asl-content-box .asl-cat-tags .cat-tags-title {	color: #01100e;	font-size: 17px;	font-weight: 700;	margin-bottom: 5px;}
+.asl-store-pg .asl-content-box .asl-cat-tags .tags-bottom-line {	width: 22px;	height: 2px;	margin: 0 0 18px 0;	background: #0b598a;	border-radius: 30px;}
+.asl-store-pg .asl-content-box .asl-cat-tags .cat-tags-list .cat-tags {	position: relative;	margin-right: 20px;}
+.asl-store-pg .asl-content-box .asl-cat-tags .cat-tags-list .cat-tags {	color: #6f6f6f;	font-size: 14px;	font-weight: 600;	padding: 2px 20px;	border-radius: 20px;	max-width: max-content;	border: 1px solid #e3e3e3;}
+.asl-store-pg .asl-content-box .asl-cat-tags .cat-tags-list .cat-tags:before {    top: 50%;    width: 1px;    content: '';    height: 17px;    right: -11.5px;    position: absolute;    background-color: #e3e3e3;    transform: translateY(-50%);}
+.asl-store-pg .asl-content-box .asl-cat-tags .cat-tags-list .cat-tags:last-child {	margin-right: 0;}
+.asl-store-pg .asl-content-box .asl-cat-tags .cat-tags-list .cat-tags:last-child:before {	display: none;}
+.asl-store-pg .asl-content-box .asl-short-decp {	color: #6f6f6f;	font-size: 14px;	line-height: initial;}
+.asl-store-pg .asl-content-box .btn-box {	margin-top: 40px;}
+.asl-store-pg .asl-content-box .btn-box .btn-info {    font-size: 17px;    font-weight: 600;    padding: 7px 25px !important;    background-color: #0b598a !important;    border: 1px solid #0b598a !important;}
+.asl-store-pg .asl-content-box .btn-box .btn-info i {	margin-left: 20px;}
+.asl-store-pg .asl-content-box .btn-box .btn-success {    font-size: 17px;    font-weight: 700;    transition: 0.5s;    color: #0b598a !important;    padding: 7px 20px !important;    box-shadow: none !important;    border: 1px solid #fff !important;    text-decoration: underline !important;    background-color: transparent !important;}
+.asl-store-pg .asl-content-box .btn-box .btn-success:hover {	border: 1px solid #0b598a !important;	background-color: #f5f5f5 !important;}
+
+/*Responsive Start*/
+@media(max-width: 767px) {	
+  .asl-store-pg .asl-content-box .btn-box .btn-info, .asl-store-pg .asl-content-box .btn-box .btn-success {		font-size: 15px;		padding: 7px 22px !important;	}
+}
+@media(max-width: 575px) {	
+  .asl-store-pg .img-box {		margin-bottom: 15px;		max-width: max-content;	}
+	.asl-store-pg .img-box img {		width: 100px;		margin-left: initial;	}
+}
+@media(max-width: 414px) {	
+  .asl-store-pg .asl-content-box .btn-box .btn-info, .asl-store-pg .asl-content-box .btn-box .btn-success {	    font-size: 14px;	    padding: 6px 18px !important;	}
+	.asl-store-pg .img-box img {		width: 80px;	}
+	.asl-store-pg .asl-content-box .asl-cat-tags .cat-tags-list .cat-tags {		font-size: 13px;	}
+}

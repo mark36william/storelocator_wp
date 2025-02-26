@@ -1,0 +1,4047 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Agile Store Locator\n"
+"POT-Creation-Date: 2021-03-04 14:14+0000\n"
+"PO-Revision-Date: 2023-02-14 06:38+0000\n"
+"Last-Translator: admin <this.zubair@gmail.com>\n"
+"Language-Team: Catalan\n"
+"Language: ca\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: agile-store-locator.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Loco-Version: 2.2.0; wp-5.5.3"
+
+#: includes/admin/attribute.php:121
+#: agile-store-locator/includes/admin/attribute.php:121
+msgid " added successfully"
+msgstr ""
+
+#: includes/vendors/wpbakery/store-grid.php:138
+#: agile-store-locator/includes/vendors/wpbakery/store-grid.php:138
+msgid "10"
+msgstr ""
+
+#: admin/partials/shortcode-popup-html.php:69
+#: agile-store-locator/admin/partials/shortcode-popup-html.php:69
+msgid "12 Hours"
+msgstr ""
+
+#: admin/partials/ui-customizer-fields.php:37
+#: agile-store-locator/admin/partials/ui-customizer-fields.php:37
+msgid "13"
+msgstr ""
+
+#: admin/partials/shortcode-popup-html.php:72
+#: agile-store-locator/admin/partials/shortcode-popup-html.php:72
+msgid "24 Hours"
+msgstr ""
+
+#: includes/admin/store.php:874
+#: agile-store-locator/includes/admin/store.php:874
+msgid ""
+"<p><a href=\"%verification_url%\" target=\"_blank\">Approve Store</a> to "
+"adding it in listing.</p>"
+msgstr ""
+
+#: includes/frontend/request.php:556 includes/frontend/request.php:695
+#: agile-store-locator/includes/frontend/request.php:556
+#: agile-store-locator/includes/frontend/request.php:695
+msgid "A new lead is requesting details about the store: "
+msgstr ""
+
+#: includes/plugin.php:299 agile-store-locator/includes/plugin.php:299
+msgid "A Store Locator"
+msgstr ""
+
+#: public/partials/template-frontend-4.php:51
+#: agile-store-locator/public/partials/template-frontend-4.php:51
+msgid "Accept"
+msgstr ""
+
+#: includes/vendors/elementor/widget.php:177
+#: agile-store-locator/includes/vendors/elementor/widget.php:177
+msgid "Accordion (Categories)"
+msgstr ""
+
+#: includes/vendors/elementor/widget.php:176
+#: agile-store-locator/includes/vendors/elementor/widget.php:176
+msgid "Accordion (States, Cities, Countries)"
+msgstr ""
+
+#: admin/partials/attribute_special.php:51 admin/partials/categories.php:60
+#: admin/partials/markers.php:55 admin/partials/manage_store.php:100
+#: admin/partials/attribute.php:51 admin/partials/logos.php:53
+#: agile-store-locator/admin/partials/attribute_special.php:51
+#: agile-store-locator/admin/partials/categories.php:60
+#: agile-store-locator/admin/partials/markers.php:55
+#: agile-store-locator/admin/partials/manage_store.php:100
+#: agile-store-locator/admin/partials/attribute.php:51
+#: agile-store-locator/admin/partials/logos.php:53
+msgid "Action"
+msgstr ""
+
+#: admin/partials/manage_leads.php:6 admin/partials/attribute_special.php:6
+#: admin/partials/categories.php:6 admin/partials/manage_store.php:6
+#: admin/partials/add_store.php:23 admin/partials/edit_store.php:23
+#: admin/partials/attribute.php:6 admin/partials/logos.php:6
+#: agile-store-locator/admin/partials/manage_leads.php:6
+#: agile-store-locator/admin/partials/attribute_special.php:6
+#: agile-store-locator/admin/partials/categories.php:6
+#: agile-store-locator/admin/partials/manage_store.php:6
+#: agile-store-locator/admin/partials/add_store.php:23
+#: agile-store-locator/admin/partials/edit_store.php:23
+#: agile-store-locator/admin/partials/attribute.php:6
+#: agile-store-locator/admin/partials/logos.php:6
+msgid "Add"
+msgstr ""
+
+#: admin/partials/categories.php:188
+#: agile-store-locator/admin/partials/categories.php:188
+msgid "Add Category"
+msgstr ""
+
+#: admin/partials/categories.php:147
+#: agile-store-locator/admin/partials/categories.php:147
+msgid "Add New Category"
+msgstr ""
+
+#: includes/plugin.php:301 agile-store-locator/includes/plugin.php:301
+msgid "Add New Store"
+msgstr ""
+
+#: admin/partials/add_store.php:489
+#: agile-store-locator/admin/partials/add_store.php:489
+msgid "Add Store"
+msgstr ""
+
+#: includes/admin/manager.php:791
+#: agile-store-locator/includes/admin/manager.php:791
+msgid "Add Store Locator Shortcode"
+msgstr ""
+
+#: admin/partials/dashboard.php:97
+#: agile-store-locator/admin/partials/dashboard.php:97
+msgid "Add the API Key"
+msgstr ""
+
+#: admin/partials/dashboard.php:90
+#: agile-store-locator/admin/partials/dashboard.php:90
+msgid "Add the shortcode"
+msgstr ""
+
+#: admin/partials/dashboard.php:92
+#: agile-store-locator/admin/partials/dashboard.php:92
+msgid ""
+"Add the shortcode <b>[ASL_STORELOCATOR]</b> on the new page or whichever "
+"page you’d like to display it."
+msgstr ""
+
+#: admin/partials/dashboard.php:104
+#: agile-store-locator/admin/partials/dashboard.php:104
+msgid "Add your Stores"
+msgstr ""
+
+#: public/partials/asl-store-form.php:162
+#: agile-store-locator/public/partials/asl-store-form.php:162
+msgid "Additional Data"
+msgstr ""
+
+#: admin/partials/add_store.php:58 admin/partials/edit_store.php:67
+#: public/partials/asl-store-form.php:177
+#: agile-store-locator/admin/partials/add_store.php:58
+#: agile-store-locator/admin/partials/edit_store.php:67
+#: agile-store-locator/public/partials/asl-store-form.php:177
+msgid "Additional Description"
+msgstr ""
+
+#: includes/frontend/app.php:1737
+#: agile-store-locator/includes/frontend/app.php:1737
+msgid "Additional Details"
+msgstr ""
+
+#: public/partials/asl-store-form.php:98
+#: agile-store-locator/public/partials/asl-store-form.php:98
+msgid "ADDRESS LOCATION"
+msgstr ""
+
+#: includes/admin/store.php:873
+#: agile-store-locator/includes/admin/store.php:873
+msgid "Address: "
+msgstr ""
+
+#: admin/partials/dashboard.php:62
+#: agile-store-locator/admin/partials/dashboard.php:62
+msgid "Advanced"
+msgstr ""
+
+#: includes/vendors/elementor/store-grid.php:152
+#: agile-store-locator/includes/vendors/elementor/store-grid.php:152
+msgid "Agile Store Grid"
+msgstr ""
+
+#. Name of the plugin
+#: admin/partials/dashboard.php:56
+#: agile-store-locator/admin/partials/dashboard.php:56
+msgid "Agile Store Locator"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Agile Store Locator (Pro Version 4.8.21) is a Premium Store Finder Plugin "
+"designed to offer you immediate access to all the best stores in your local "
+"area. It enables you to find the very best stores and their location thanks "
+"to the power of Google Maps."
+msgstr ""
+
+#: admin/partials/dashboard.php:300
+#: agile-store-locator/admin/partials/dashboard.php:300
+msgid "Agile Store Locator Features"
+msgstr ""
+
+#: includes/vendors/elementor/widget.php:122
+#: agile-store-locator/includes/vendors/elementor/widget.php:122
+msgid "Agile Store Locator Shortcode"
+msgstr ""
+
+#: includes/plugin.php:320 admin/partials/ui-customizer.php:8
+#: agile-store-locator/includes/plugin.php:320
+#: agile-store-locator/includes/plugin.php:320
+#: agile-store-locator/admin/partials/ui-customizer.php:8
+msgid "Agile Store Locator UI Customizer"
+msgstr ""
+
+#. Author of the plugin
+msgid "AGILELOGIX"
+msgstr ""
+
+#: admin/partials/edit_store.php:45
+#: agile-store-locator/admin/partials/edit_store.php:45
+msgid "alert link"
+msgstr ""
+
+#: admin/partials/edit_store.php:45
+#: agile-store-locator/admin/partials/edit_store.php:45
+msgid "Alert!"
+msgstr ""
+
+#: admin/partials/dashboard.php:83
+#: agile-store-locator/admin/partials/dashboard.php:83
+msgid ""
+"Alert! Google API KEY is missing, the Map search, geocoding and direction "
+"will not work without it, Please add Google API KEY first."
+msgstr ""
+
+#: admin/partials/dashboard.php:236 public/partials/template-frontend-2.php:68
+#: public/partials/template-frontend-1.php:50
+#: public/partials/template-frontend-3.php:88
+#: public/partials/template-frontend-0.php:56
+#: agile-store-locator/admin/partials/dashboard.php:236
+#: agile-store-locator/public/partials/template-frontend-2.php:68
+#: agile-store-locator/public/partials/template-frontend-1.php:50
+#: agile-store-locator/public/partials/template-frontend-3.php:88
+#: agile-store-locator/public/partials/template-frontend-0.php:56
+msgid "ALL"
+msgstr ""
+
+#: includes/frontend/app.php:1697
+#: agile-store-locator/includes/frontend/app.php:1697
+msgid "All Brands"
+msgstr ""
+
+#: includes/frontend/app.php:545 includes/frontend/app.php:1696
+#: includes/frontend/app.php:1721
+#: agile-store-locator/includes/frontend/app.php:545
+#: agile-store-locator/includes/frontend/app.php:1696
+#: agile-store-locator/includes/frontend/app.php:1721
+msgid "All Categories"
+msgstr ""
+
+#: includes/frontend/app.php:1686
+#: agile-store-locator/includes/frontend/app.php:1686
+msgid "All Cities"
+msgstr ""
+
+#: includes/frontend/app.php:1684
+#: agile-store-locator/includes/frontend/app.php:1684
+msgid "All Countries"
+msgstr ""
+
+#: includes/frontend/app.php:543 includes/frontend/app.php:1694
+#: agile-store-locator/includes/frontend/app.php:543
+#: agile-store-locator/includes/frontend/app.php:1694
+msgid "All selected"
+msgstr "Tots seleccionasts"
+
+#: includes/frontend/app.php:1698
+#: agile-store-locator/includes/frontend/app.php:1698
+msgid "All Specialities"
+msgstr ""
+
+#: includes/frontend/app.php:1685
+#: agile-store-locator/includes/frontend/app.php:1685
+msgid "All States"
+msgstr ""
+
+#: includes/admin/store.php:55 agile-store-locator/includes/admin/store.php:55
+msgid "All Stores are deleted"
+msgstr ""
+
+#: admin/partials/dashboard.php:169
+#: agile-store-locator/admin/partials/dashboard.php:169
+msgid "Analytics"
+msgstr ""
+
+#: includes/vendors/wpbakery/store-grid.php:172
+#: agile-store-locator/includes/vendors/wpbakery/store-grid.php:172
+msgid "Apply the city filter to the grid"
+msgstr ""
+
+#: includes/vendors/wpbakery/store-grid.php:181
+#: agile-store-locator/includes/vendors/wpbakery/store-grid.php:181
+msgid "Apply the state filter to the grid"
+msgstr ""
+
+#: includes/admin/store.php:244
+#: agile-store-locator/includes/admin/store.php:244
+msgid "Approve"
+msgstr ""
+
+#: includes/admin/store.php:244
+#: agile-store-locator/includes/admin/store.php:244
+msgid "Approving..."
+msgstr ""
+
+#: public/partials/asl-lead-form.php:11
+#: agile-store-locator/public/partials/asl-lead-form.php:11
+msgid ""
+"Are you ready to Experience the Difference? Just fill out the form below and "
+"one of our helpful Bintelli Representatives will find your nearest dealer "
+"and get you in contact!"
+msgstr ""
+
+#: includes/admin/manager.php:216
+#: agile-store-locator/includes/admin/manager.php:216
+msgid "Are you sure to delete all stores of all languages?"
+msgstr ""
+
+#: includes/admin/manager.php:197
+#: agile-store-locator/includes/admin/manager.php:197
+msgid "Are you sure to remove Template from the theme root directory?"
+msgstr ""
+
+#: includes/admin/manager.php:190
+#: agile-store-locator/includes/admin/manager.php:190
+msgid "Are you sure you want to "
+msgstr ""
+
+#: includes/plugin.php:319 agile-store-locator/includes/plugin.php:319
+#: agile-store-locator/includes/plugin.php:319
+msgid "ASL Settings"
+msgstr ""
+
+#: includes/admin/asset.php:91 agile-store-locator/includes/admin/asset.php:91
+msgid "Assets Backup Successfully, Download the Zip File."
+msgstr ""
+
+#: includes/admin/asset.php:127
+#: agile-store-locator/includes/admin/asset.php:127
+msgid "Assets Imported Successfully."
+msgstr ""
+
+#: admin/partials/import_store.php:105
+#: agile-store-locator/admin/partials/import_store.php:105
+msgid "Avoid Duplication"
+msgstr ""
+
+#: public/partials/template-frontend-2.php:144
+#: agile-store-locator/public/partials/template-frontend-2.php:144
+msgid "Back"
+msgstr ""
+
+#: admin/partials/ui-customizer.php:9
+#: agile-store-locator/admin/partials/ui-customizer.php:9
+msgid "Back to Settings"
+msgstr ""
+
+#: includes/frontend/app.php:1720
+#: agile-store-locator/includes/frontend/app.php:1720
+msgid "Back to stores"
+msgstr ""
+
+#: includes/admin/manager.php:195
+#: agile-store-locator/includes/admin/manager.php:195
+msgid "Backup"
+msgstr ""
+
+#: includes/admin/manager.php:194
+#: agile-store-locator/includes/admin/manager.php:194
+msgid ""
+"Backup of templates is not need if you haven't customize the template via "
+"plugin editor, are you sure to backup Template into theme root directory?"
+msgstr ""
+
+#: admin/partials/dashboard.php:425 admin/partials/dashboard.php:447
+#: includes/admin/manager.php:193
+#: agile-store-locator/admin/partials/dashboard.php:425
+#: agile-store-locator/admin/partials/dashboard.php:447
+#: agile-store-locator/includes/admin/manager.php:193
+msgid "Backup Template"
+msgstr ""
+
+#: admin/partials/dashboard.php:382
+#: agile-store-locator/admin/partials/dashboard.php:382
+msgid "Basic System Info"
+msgstr ""
+
+#: admin/partials/edit_store.php:45
+#: agile-store-locator/admin/partials/edit_store.php:45
+msgid "Best check yourself "
+msgstr ""
+
+#: admin/partials/customize_map.php:148
+#: agile-store-locator/admin/partials/customize_map.php:148
+msgid "Bike Layer"
+msgstr ""
+
+#: admin/partials/customize_map.php:13
+#: agile-store-locator/admin/partials/customize_map.php:13
+msgid "Border"
+msgstr ""
+
+#: includes/vendors/elementor/widget.php:191
+#: agile-store-locator/includes/vendors/elementor/widget.php:191
+msgid "Boundary Box"
+msgstr ""
+
+#: admin/partials/add_store.php:190 admin/partials/edit_store.php:200
+#: agile-store-locator/admin/partials/add_store.php:190
+#: agile-store-locator/admin/partials/edit_store.php:200
+msgid "Brand"
+msgstr ""
+
+#: includes/frontend/app.php:1728
+#: agile-store-locator/includes/frontend/app.php:1728
+msgid "brand"
+msgstr ""
+
+#: public/partials/asl-store-form.php:77
+#: agile-store-locator/public/partials/asl-store-form.php:77
+msgid "Brands"
+msgstr ""
+
+#: admin/partials/categories.php:189 admin/partials/markers.php:119
+#: admin/partials/logos.php:119
+#: agile-store-locator/admin/partials/categories.php:189
+#: agile-store-locator/admin/partials/markers.php:119
+#: agile-store-locator/admin/partials/logos.php:119
+msgid "Cancel"
+msgstr ""
+
+#: admin/partials/dashboard.php:135 admin/partials/manage_store.php:93
+#: admin/partials/manage_store.php:114 includes/frontend/app.php:1722
+#: public/partials/template-frontend-2.php:131
+#: public/partials/asl-store-form.php:66
+#: agile-store-locator/admin/partials/dashboard.php:135
+#: agile-store-locator/admin/partials/manage_store.php:93
+#: agile-store-locator/admin/partials/manage_store.php:114
+#: agile-store-locator/includes/frontend/app.php:1722
+#: agile-store-locator/public/partials/template-frontend-2.php:131
+#: agile-store-locator/public/partials/asl-store-form.php:66
+msgid "Categories"
+msgstr ""
+
+#: includes/admin/category.php:152
+#: agile-store-locator/includes/admin/category.php:152
+msgid "Categories deleted successfully."
+msgstr ""
+
+#: admin/partials/add_store.php:171 admin/partials/edit_store.php:180
+#: includes/frontend/app.php:1731
+#: agile-store-locator/admin/partials/add_store.php:171
+#: agile-store-locator/admin/partials/edit_store.php:180
+#: agile-store-locator/includes/frontend/app.php:1731
+msgid "Category"
+msgstr ""
+
+#: includes/admin/category.php:84
+#: agile-store-locator/includes/admin/category.php:84
+msgid "Category added successfully"
+msgstr ""
+
+#: includes/admin/category.php:152
+#: agile-store-locator/includes/admin/category.php:152
+msgid "Category deleted successfully."
+msgstr ""
+
+#: admin/partials/categories.php:55 admin/partials/categories.php:93
+#: agile-store-locator/admin/partials/categories.php:55
+#: agile-store-locator/admin/partials/categories.php:93
+msgid "Category ID"
+msgstr ""
+
+#: includes/admin/category.php:211
+#: agile-store-locator/includes/admin/category.php:211
+msgid "Category updated successfully."
+msgstr ""
+
+#: includes/vendors/wpbakery/store-grid.php:130
+#: agile-store-locator/includes/vendors/wpbakery/store-grid.php:130
+msgid "category_name"
+msgstr ""
+
+#: admin/partials/categories.php:106 admin/partials/markers.php:93
+#: admin/partials/manage_store.php:51 admin/partials/logos.php:92
+#: agile-store-locator/admin/partials/categories.php:106
+#: agile-store-locator/admin/partials/markers.php:93
+#: agile-store-locator/admin/partials/manage_store.php:51
+#: agile-store-locator/admin/partials/logos.php:92
+msgid "Change"
+msgstr ""
+
+#: admin/partials/add_store.php:137 admin/partials/edit_store.php:146
+#: agile-store-locator/admin/partials/add_store.php:137
+#: agile-store-locator/admin/partials/edit_store.php:146
+msgid "Change Coordinates"
+msgstr ""
+
+#: public/partials/template-frontend-list.php:120
+#: agile-store-locator/public/partials/template-frontend-list.php:120
+msgid "Cities"
+msgstr ""
+
+#: admin/partials/manage_store.php:107 admin/partials/add_store.php:99
+#: admin/partials/edit_store.php:108 includes/admin/store.php:1004
+#: includes/frontend/app.php:1683 public/partials/asl-store-form.php:109
+#: agile-store-locator/admin/partials/manage_store.php:107
+#: agile-store-locator/admin/partials/add_store.php:99
+#: agile-store-locator/admin/partials/edit_store.php:108
+#: agile-store-locator/includes/admin/store.php:1004
+#: agile-store-locator/includes/frontend/app.php:1683
+#: agile-store-locator/public/partials/asl-store-form.php:109
+msgid "City"
+msgstr ""
+
+#: includes/vendors/wpbakery/store-grid.php:169
+#: agile-store-locator/includes/vendors/wpbakery/store-grid.php:169
+msgid "City Filter"
+msgstr ""
+
+#: admin/partials/customize_map.php:20
+#: agile-store-locator/admin/partials/customize_map.php:20
+msgid "Clear All"
+msgstr ""
+
+#: public/partials/template-frontend-deal.php:4
+#: agile-store-locator/public/partials/template-frontend-deal.php:4
+msgid "CLOSE"
+msgstr ""
+
+#: admin/partials/categories.php:133 admin/partials/markers.php:169
+#: admin/partials/manage_store.php:157 admin/partials/add_store.php:541
+#: admin/partials/add_store.php:591 admin/partials/edit_store.php:579
+#: admin/partials/edit_store.php:627 admin/partials/shortcode-popup-html.php:83
+#: admin/partials/logos.php:166
+#: agile-store-locator/admin/partials/categories.php:133
+#: agile-store-locator/admin/partials/markers.php:169
+#: agile-store-locator/admin/partials/manage_store.php:157
+#: agile-store-locator/admin/partials/add_store.php:541
+#: agile-store-locator/admin/partials/add_store.php:591
+#: agile-store-locator/admin/partials/edit_store.php:579
+#: agile-store-locator/admin/partials/edit_store.php:627
+#: agile-store-locator/admin/partials/shortcode-popup-html.php:83
+#: agile-store-locator/admin/partials/logos.php:166
+msgid "Close"
+msgstr ""
+
+#: includes/helper.php:1004 admin/partials/add_store.php:257
+#: admin/partials/add_store.php:291 admin/partials/add_store.php:324
+#: admin/partials/add_store.php:357 admin/partials/add_store.php:391
+#: admin/partials/add_store.php:424 admin/partials/add_store.php:458
+#: admin/partials/edit_store.php:272 admin/partials/edit_store.php:310
+#: admin/partials/edit_store.php:347 admin/partials/edit_store.php:384
+#: admin/partials/edit_store.php:422 admin/partials/edit_store.php:459
+#: admin/partials/edit_store.php:497 includes/frontend/app.php:1738
+#: agile-store-locator/includes/helper.php:1004
+#: agile-store-locator/admin/partials/add_store.php:257
+#: agile-store-locator/admin/partials/add_store.php:291
+#: agile-store-locator/admin/partials/add_store.php:324
+#: agile-store-locator/admin/partials/add_store.php:357
+#: agile-store-locator/admin/partials/add_store.php:391
+#: agile-store-locator/admin/partials/add_store.php:424
+#: agile-store-locator/admin/partials/add_store.php:458
+#: agile-store-locator/admin/partials/edit_store.php:272
+#: agile-store-locator/admin/partials/edit_store.php:310
+#: agile-store-locator/admin/partials/edit_store.php:347
+#: agile-store-locator/admin/partials/edit_store.php:384
+#: agile-store-locator/admin/partials/edit_store.php:422
+#: agile-store-locator/admin/partials/edit_store.php:459
+#: agile-store-locator/admin/partials/edit_store.php:497
+#: agile-store-locator/includes/frontend/app.php:1738
+msgid "Closed"
+msgstr ""
+
+#: admin/partials/ui-customizer-fields.php:17
+#: agile-store-locator/admin/partials/ui-customizer-fields.php:17
+msgid "Colors"
+msgstr ""
+
+#: admin/partials/manage_store.php:137
+#: agile-store-locator/admin/partials/manage_store.php:137
+msgid "Columns Visiblity"
+msgstr ""
+
+#: public/partials/asl-store-form.php:24
+#: agile-store-locator/public/partials/asl-store-form.php:24
+msgid "Company"
+msgstr ""
+
+#: includes/admin/store.php:909
+#: agile-store-locator/includes/admin/store.php:909
+msgid ""
+"Congratulations! your registered store has been approved and is live now!."
+msgstr ""
+
+#: public/partials/_agile_contact_modal.php:6
+#: agile-store-locator/public/partials/_agile_contact_modal.php:6
+msgid "Contact Form"
+msgstr ""
+
+#: admin/partials/import_store.php:111
+#: agile-store-locator/admin/partials/import_store.php:111
+msgid "Coordinates"
+msgstr ""
+
+#: admin/partials/add_store.php:228 admin/partials/edit_store.php:240
+#: agile-store-locator/admin/partials/add_store.php:228
+#: agile-store-locator/admin/partials/edit_store.php:240
+msgid "Copy/Paste Monday Timing"
+msgstr ""
+
+#: admin/partials/manage_store.php:108 admin/partials/add_store.php:114
+#: admin/partials/edit_store.php:123 includes/frontend/app.php:1681
+#: public/partials/asl-store-form.php:130
+#: agile-store-locator/admin/partials/manage_store.php:108
+#: agile-store-locator/admin/partials/add_store.php:114
+#: agile-store-locator/admin/partials/edit_store.php:123
+#: agile-store-locator/includes/frontend/app.php:1681
+#: agile-store-locator/public/partials/asl-store-form.php:130
+msgid "Country"
+msgstr ""
+
+#: admin/partials/dashboard.php:344
+#: agile-store-locator/admin/partials/dashboard.php:344
+msgid ""
+"Create a lead form page that can be used to get the contact information of "
+"potential customers easily."
+msgstr ""
+
+#: includes/plugin.php:301 agile-store-locator/includes/plugin.php:301
+msgid "Create New Store"
+msgstr ""
+
+#: admin/partials/add_store.php:38
+#: agile-store-locator/admin/partials/add_store.php:38
+msgid "Create Store"
+msgstr ""
+
+#: admin/partials/attribute_special.php:50 admin/partials/categories.php:59
+#: admin/partials/manage_store.php:96 admin/partials/manage_store.php:117
+#: admin/partials/attribute.php:50
+#: agile-store-locator/admin/partials/attribute_special.php:50
+#: agile-store-locator/admin/partials/categories.php:59
+#: agile-store-locator/admin/partials/manage_store.php:96
+#: agile-store-locator/admin/partials/manage_store.php:117
+#: agile-store-locator/admin/partials/attribute.php:50
+msgid "Created On"
+msgstr ""
+
+#: admin/partials/dashboard.php:409
+#: agile-store-locator/admin/partials/dashboard.php:409
+msgid "CSV Upload Permissions"
+msgstr ""
+
+#: admin/partials/import_store.php:85
+#: agile-store-locator/admin/partials/import_store.php:85
+msgid ""
+"Current build works with CSV with comma as the delimiter. Please contact us "
+"at support@agilelogix.com for support."
+msgstr ""
+
+#: includes/frontend/app.php:548 includes/frontend/app.php:1703
+#: public/partials/template-frontend-2.php:168
+#: public/partials/template-frontend-list.php:11
+#: public/partials/asl-search.php:32 public/partials/template-frontend-1.php:75
+#: public/partials/template-frontend-deal.php:45
+#: public/partials/template-frontend-deal.php:179
+#: public/partials/template-frontend-3.php:27
+#: public/partials/template-frontend-4.php:26
+#: public/partials/template-frontend-0.php:82
+#: public/partials/template-frontend-0.php:161
+#: agile-store-locator/includes/frontend/app.php:548
+#: agile-store-locator/includes/frontend/app.php:1703
+#: agile-store-locator/public/partials/template-frontend-2.php:168
+#: agile-store-locator/public/partials/template-frontend-list.php:11
+#: agile-store-locator/public/partials/asl-search.php:32
+#: agile-store-locator/public/partials/template-frontend-1.php:75
+#: agile-store-locator/public/partials/template-frontend-deal.php:45
+#: agile-store-locator/public/partials/template-frontend-deal.php:179
+#: agile-store-locator/public/partials/template-frontend-3.php:27
+#: agile-store-locator/public/partials/template-frontend-4.php:26
+#: agile-store-locator/public/partials/template-frontend-0.php:82
+#: agile-store-locator/public/partials/template-frontend-0.php:161
+msgid "Current Location"
+msgstr "Localització actual"
+
+#: includes/frontend/app.php:1716
+#: agile-store-locator/includes/frontend/app.php:1716
+msgid "Current+Location"
+msgstr ""
+
+#: includes/plugin.php:315 admin/partials/customize_map.php:5
+#: agile-store-locator/includes/plugin.php:315
+#: agile-store-locator/includes/plugin.php:315
+#: agile-store-locator/admin/partials/customize_map.php:5
+msgid "Customize Map"
+msgstr ""
+
+#: includes/plugin.php:300 agile-store-locator/includes/plugin.php:300
+#: agile-store-locator/includes/plugin.php:300
+msgid "Dashboard"
+msgstr ""
+
+#: admin/partials/import_store.php:134
+#: agile-store-locator/admin/partials/import_store.php:134
+msgid "Date"
+msgstr ""
+
+#: admin/partials/manage_leads.php:77
+#: agile-store-locator/admin/partials/manage_leads.php:77
+msgid "Dated"
+msgstr ""
+
+#: includes/admin/store.php:351
+#: agile-store-locator/includes/admin/store.php:351
+msgid "Default Lat & Default Lng values are invalid!"
+msgstr ""
+
+#: includes/admin/setting.php:378
+#: agile-store-locator/includes/admin/setting.php:378
+msgid "Default template is loaded"
+msgstr ""
+
+#: admin/partials/customize_map.php:19 admin/partials/customize_map.php:115
+#: admin/partials/import_store.php:137 admin/partials/import_store.php:152
+#: agile-store-locator/admin/partials/customize_map.php:19
+#: agile-store-locator/admin/partials/customize_map.php:115
+#: agile-store-locator/admin/partials/import_store.php:137
+#: agile-store-locator/admin/partials/import_store.php:152
+msgid "Delete"
+msgstr ""
+
+#: includes/admin/manager.php:219
+#: agile-store-locator/includes/admin/manager.php:219
+msgid "DELETE ALL"
+msgstr ""
+
+#: includes/admin/manager.php:214
+#: agile-store-locator/includes/admin/manager.php:214
+msgid "DELETE ALL STORES"
+msgstr ""
+
+#: admin/partials/import_store.php:97
+#: agile-store-locator/admin/partials/import_store.php:97
+msgid "Delete All Stores"
+msgstr ""
+
+#: includes/admin/manager.php:189
+#: agile-store-locator/includes/admin/manager.php:189
+msgid "Delete Categories"
+msgstr ""
+
+#: includes/admin/manager.php:188
+#: agile-store-locator/includes/admin/manager.php:188
+msgid "Delete Category"
+msgstr ""
+
+#: includes/admin/manager.php:191
+#: agile-store-locator/includes/admin/manager.php:191
+msgid "Delete it!"
+msgstr ""
+
+#: includes/admin/manager.php:201
+#: agile-store-locator/includes/admin/manager.php:201
+msgid "Delete Logo"
+msgstr ""
+
+#: includes/admin/manager.php:199
+#: agile-store-locator/includes/admin/manager.php:199
+msgid "Delete Marker"
+msgstr ""
+
+#: includes/admin/manager.php:200
+#: agile-store-locator/includes/admin/manager.php:200
+msgid "Delete Markers"
+msgstr ""
+
+#: admin/partials/manage_leads.php:53 admin/partials/attribute_special.php:31
+#: admin/partials/categories.php:34 admin/partials/markers.php:35
+#: admin/partials/manage_store.php:60 admin/partials/attribute.php:31
+#: admin/partials/logos.php:34
+#: agile-store-locator/admin/partials/manage_leads.php:53
+#: agile-store-locator/admin/partials/attribute_special.php:31
+#: agile-store-locator/admin/partials/categories.php:34
+#: agile-store-locator/admin/partials/markers.php:35
+#: agile-store-locator/admin/partials/manage_store.php:60
+#: agile-store-locator/admin/partials/attribute.php:31
+#: agile-store-locator/admin/partials/logos.php:34
+msgid "Delete Selected"
+msgstr ""
+
+#: includes/admin/manager.php:202
+#: agile-store-locator/includes/admin/manager.php:202
+msgid "Delete Selected Logos"
+msgstr ""
+
+#: includes/admin/manager.php:205
+#: agile-store-locator/includes/admin/manager.php:205
+msgid "Delete Store"
+msgstr ""
+
+#: includes/admin/manager.php:206
+#: agile-store-locator/includes/admin/manager.php:206
+msgid "Delete Stores"
+msgstr ""
+
+#: admin/partials/dashboard.php:426
+#: agile-store-locator/admin/partials/dashboard.php:426
+msgid "Delete Template"
+msgstr ""
+
+#: includes/admin/attribute.php:92
+#: agile-store-locator/includes/admin/attribute.php:92
+msgid "deleted successfully"
+msgstr ""
+
+#: admin/partials/import_store.php:97
+#: agile-store-locator/admin/partials/import_store.php:97
+msgid "Deleting..."
+msgstr ""
+
+#: admin/partials/add_store.php:201 admin/partials/edit_store.php:210
+#: agile-store-locator/admin/partials/add_store.php:201
+#: agile-store-locator/admin/partials/edit_store.php:210
+msgid "Descending Order for the list, higher number on top."
+msgstr ""
+
+#: admin/partials/add_store.php:53 admin/partials/edit_store.php:62
+#: includes/admin/store.php:974
+#: agile-store-locator/admin/partials/add_store.php:53
+#: agile-store-locator/admin/partials/edit_store.php:62
+#: agile-store-locator/includes/admin/store.php:974
+msgid "Description"
+msgstr ""
+
+#: public/partials/asl-search.php:31
+#: agile-store-locator/public/partials/asl-search.php:31
+msgid "Destination missing or invalid"
+msgstr ""
+
+#: public/partials/asl-store-grid.php:40 public/partials/asl-store-page.php:85
+#: agile-store-locator/public/partials/asl-store-grid.php:40
+#: agile-store-locator/public/partials/asl-store-page.php:85
+msgid "Direction"
+msgstr ""
+
+#: includes/frontend/app.php:1689 includes/frontend/app.php:1710
+#: public/partials/template-frontend-deal.php:207
+#: agile-store-locator/includes/frontend/app.php:1689
+#: agile-store-locator/includes/frontend/app.php:1710
+#: agile-store-locator/public/partials/template-frontend-deal.php:207
+msgid "Directions"
+msgstr "Indicacions"
+
+#: admin/partials/categories.php:30
+#: agile-store-locator/admin/partials/categories.php:30
+msgid ""
+"Directory is not writable, Category Image Upload will Fail, Make directory "
+"writable."
+msgstr ""
+
+#: admin/partials/import_store.php:57
+#: agile-store-locator/admin/partials/import_store.php:57
+msgid ""
+"Directory is not writable, Excel Import will Fail, Make directory writable."
+msgstr ""
+
+#: admin/partials/logos.php:30 agile-store-locator/admin/partials/logos.php:30
+msgid ""
+"Directory is not writable, Logo Image upload will fail, make directory "
+"writable."
+msgstr ""
+
+#: admin/partials/markers.php:30
+#: agile-store-locator/admin/partials/markers.php:30
+msgid ""
+"Directory is not writable, marker image upload will fail, make directory "
+"writable."
+msgstr ""
+
+#: admin/partials/shortcode-popup-html.php:46
+#: agile-store-locator/admin/partials/shortcode-popup-html.php:46
+msgid "Disable"
+msgstr ""
+
+#: admin/partials/manage_store.php:92 admin/partials/manage_store.php:113
+#: admin/partials/add_store.php:214 admin/partials/edit_store.php:223
+#: includes/admin/store.php:701
+#: agile-store-locator/admin/partials/manage_store.php:92
+#: agile-store-locator/admin/partials/manage_store.php:113
+#: agile-store-locator/admin/partials/add_store.php:214
+#: agile-store-locator/admin/partials/edit_store.php:223
+#: agile-store-locator/includes/admin/store.php:701
+msgid "Disabled"
+msgstr ""
+
+#: admin/partials/dashboard.php:78
+#: agile-store-locator/admin/partials/dashboard.php:78
+msgid ""
+"Discover how the Agile Store Locator Plugin works and explore the 3 most "
+"vital steps to use the plugin."
+msgstr ""
+
+#: includes/vendors/wpbakery/store-grid.php:124
+#: agile-store-locator/includes/vendors/wpbakery/store-grid.php:124
+msgid "Display stores in grid"
+msgstr ""
+
+#: admin/partials/dashboard.php:366
+#: agile-store-locator/admin/partials/dashboard.php:366
+msgid "Display Where to Buy Locations to Millions"
+msgstr ""
+
+#: includes/frontend/app.php:1711 includes/frontend/app.php:1723
+#: public/partials/template-frontend-list.php:118
+#: public/partials/template-frontend-deal.php:290
+#: agile-store-locator/includes/frontend/app.php:1711
+#: agile-store-locator/includes/frontend/app.php:1723
+#: agile-store-locator/public/partials/template-frontend-list.php:118
+#: agile-store-locator/public/partials/template-frontend-deal.php:290
+msgid "Distance"
+msgstr "Distància"
+
+#: includes/vendors/elementor/widget.php:185
+#: agile-store-locator/includes/vendors/elementor/widget.php:185
+msgid "Distance Control"
+msgstr ""
+
+#: includes/frontend/app.php:1724 public/partials/template-frontend-2.php:119
+#: public/partials/template-frontend-deal.php:79
+#: public/partials/template-frontend-4.php:108
+#: public/partials/template-frontend-0.php:121
+#: agile-store-locator/includes/frontend/app.php:1724
+#: agile-store-locator/public/partials/template-frontend-2.php:119
+#: agile-store-locator/public/partials/template-frontend-deal.php:79
+#: agile-store-locator/public/partials/template-frontend-4.php:108
+#: agile-store-locator/public/partials/template-frontend-0.php:121
+msgid "Distance Range"
+msgstr "Distància"
+
+#: admin/partials/shortcode-popup-html.php:55
+#: agile-store-locator/admin/partials/shortcode-popup-html.php:55
+msgid "Distance Unit"
+msgstr ""
+
+#: includes/admin/manager.php:895
+#: agile-store-locator/includes/admin/manager.php:895
+msgid "Docs"
+msgstr ""
+
+#: admin/partials/import_store.php:150
+#: agile-store-locator/admin/partials/import_store.php:150
+msgid "Download"
+msgstr ""
+
+#: includes/vendors/elementor/widget.php:190
+#: agile-store-locator/includes/vendors/elementor/widget.php:190
+msgid "Dropdown"
+msgstr ""
+
+#: public/partials/template-frontend-2.php:81
+#: public/partials/template-frontend-1.php:63
+#: public/partials/template-frontend-3.php:46
+#: public/partials/template-frontend-4.php:50
+#: public/partials/template-frontend-0.php:70
+#: agile-store-locator/public/partials/template-frontend-2.php:81
+#: agile-store-locator/public/partials/template-frontend-1.php:63
+#: agile-store-locator/public/partials/template-frontend-3.php:46
+#: agile-store-locator/public/partials/template-frontend-4.php:50
+#: agile-store-locator/public/partials/template-frontend-0.php:70
+msgid ""
+"Due to the GDPR, we need your consent to load data from Google, more "
+"information in our privacy policy."
+msgstr ""
+
+#: includes/admin/manager.php:192
+#: agile-store-locator/includes/admin/manager.php:192
+msgid "Duplicate it!"
+msgstr ""
+
+#: includes/admin/import-export.php:860
+#: agile-store-locator/includes/admin/import-export.php:860
+msgid "Duplicate rows skipped: "
+msgstr ""
+
+#: includes/admin/manager.php:207
+#: agile-store-locator/includes/admin/manager.php:207
+msgid "Duplicate Selected Store"
+msgstr ""
+
+#: includes/admin/store.php:402
+#: agile-store-locator/includes/admin/store.php:402
+msgid "Duplicate stores removed"
+msgstr ""
+
+#: admin/partials/manage_leads.php:37
+#: agile-store-locator/admin/partials/manage_leads.php:37
+msgid "Duration Selection"
+msgstr ""
+
+#: admin/partials/dashboard.php:371
+#: agile-store-locator/admin/partials/dashboard.php:371
+msgid "Easily Personalize Your Store Locator"
+msgstr ""
+
+#: admin/partials/manage_leads.php:14 admin/partials/attribute_special.php:14
+#: admin/partials/categories.php:14 admin/partials/import_store.php:26
+#: admin/partials/attribute.php:14 admin/partials/logos.php:14
+#: agile-store-locator/admin/partials/manage_leads.php:14
+#: agile-store-locator/admin/partials/attribute_special.php:14
+#: agile-store-locator/admin/partials/categories.php:14
+#: agile-store-locator/admin/partials/import_store.php:26
+#: agile-store-locator/admin/partials/attribute.php:14
+#: agile-store-locator/admin/partials/logos.php:14
+msgid "Edit"
+msgstr ""
+
+#: includes/plugin.php:323 admin/partials/edit_store.php:38
+#: agile-store-locator/includes/plugin.php:323
+#: agile-store-locator/includes/plugin.php:323
+#: agile-store-locator/admin/partials/edit_store.php:38
+msgid "Edit Store"
+msgstr ""
+
+#: admin/partials/manage_store.php:110 admin/partials/add_store.php:90
+#: admin/partials/edit_store.php:99 admin/partials/import_store.php:108
+#: includes/admin/store.php:989 public/partials/asl-lead-form.php:23
+#: public/partials/asl-store-form.php:59
+#: agile-store-locator/admin/partials/manage_store.php:110
+#: agile-store-locator/admin/partials/add_store.php:90
+#: agile-store-locator/admin/partials/edit_store.php:99
+#: agile-store-locator/admin/partials/import_store.php:108
+#: agile-store-locator/includes/admin/store.php:989
+#: agile-store-locator/public/partials/asl-lead-form.php:23
+#: agile-store-locator/public/partials/asl-store-form.php:59
+msgid "Email"
+msgstr ""
+
+#: includes/model/lead.php:67 includes/frontend/request.php:558
+#: includes/frontend/request.php:697
+#: agile-store-locator/includes/model/lead.php:67
+#: agile-store-locator/includes/frontend/request.php:558
+#: agile-store-locator/includes/frontend/request.php:697
+msgid "Email Address: "
+msgstr ""
+
+#: includes/admin/store.php:701
+#: agile-store-locator/includes/admin/store.php:701
+msgid "Enabled"
+msgstr ""
+
+#: admin/partials/add_store.php:246 admin/partials/add_store.php:280
+#: admin/partials/add_store.php:313 admin/partials/add_store.php:346
+#: admin/partials/add_store.php:380 admin/partials/add_store.php:413
+#: admin/partials/add_store.php:447 admin/partials/edit_store.php:260
+#: admin/partials/edit_store.php:298 admin/partials/edit_store.php:335
+#: admin/partials/edit_store.php:372 admin/partials/edit_store.php:410
+#: admin/partials/edit_store.php:447 admin/partials/edit_store.php:485
+#: includes/admin/manager.php:212
+#: agile-store-locator/admin/partials/add_store.php:246
+#: agile-store-locator/admin/partials/add_store.php:280
+#: agile-store-locator/admin/partials/add_store.php:313
+#: agile-store-locator/admin/partials/add_store.php:346
+#: agile-store-locator/admin/partials/add_store.php:380
+#: agile-store-locator/admin/partials/add_store.php:413
+#: agile-store-locator/admin/partials/add_store.php:447
+#: agile-store-locator/admin/partials/edit_store.php:260
+#: agile-store-locator/admin/partials/edit_store.php:298
+#: agile-store-locator/admin/partials/edit_store.php:335
+#: agile-store-locator/admin/partials/edit_store.php:372
+#: agile-store-locator/admin/partials/edit_store.php:410
+#: agile-store-locator/admin/partials/edit_store.php:447
+#: agile-store-locator/admin/partials/edit_store.php:485
+#: agile-store-locator/includes/admin/manager.php:212
+msgid "End Time"
+msgstr ""
+
+#: admin/partials/dashboard.php:364
+#: agile-store-locator/admin/partials/dashboard.php:364
+msgid "Enjoy Attractive Store Locator Layouts With Unlimited Features."
+msgstr ""
+
+#: public/partials/asl-search.php:30 public/partials/template-frontend-1.php:74
+#: public/partials/_agile_modal.php:11
+#: public/partials/template-frontend-deal.php:44
+#: public/partials/template-frontend-deal.php:118
+#: public/partials/template-frontend-deal.php:178
+#: public/partials/template-frontend-0.php:81
+#: public/partials/template-frontend-0.php:160
+#: agile-store-locator/public/partials/asl-search.php:30
+#: agile-store-locator/public/partials/template-frontend-1.php:74
+#: agile-store-locator/public/partials/_agile_modal.php:11
+#: agile-store-locator/public/partials/template-frontend-deal.php:44
+#: agile-store-locator/public/partials/template-frontend-deal.php:118
+#: agile-store-locator/public/partials/template-frontend-deal.php:178
+#: agile-store-locator/public/partials/template-frontend-0.php:81
+#: agile-store-locator/public/partials/template-frontend-0.php:160
+msgid "Enter a Location"
+msgstr "Escriure lloc"
+
+#: public/partials/asl-store-form.php:61
+#: agile-store-locator/public/partials/asl-store-form.php:61
+msgid "Enter correct email address"
+msgstr ""
+
+#: includes/admin/manager.php:220
+#: agile-store-locator/includes/admin/manager.php:220
+msgid "Enter Purchase Code"
+msgstr ""
+
+#: public/partials/template-frontend-3.php:74
+#: agile-store-locator/public/partials/template-frontend-3.php:74
+msgid "Enter your address"
+msgstr ""
+
+#: public/partials/_agile_contact_modal.php:27
+#: agile-store-locator/public/partials/_agile_contact_modal.php:27
+msgid "Enter your email"
+msgstr ""
+
+#: public/partials/_agile_contact_modal.php:24
+#: agile-store-locator/public/partials/_agile_contact_modal.php:24
+msgid "Enter your name"
+msgstr ""
+
+#: includes/admin/license.php:198
+#: agile-store-locator/includes/admin/license.php:198
+msgid ""
+"Error in validation! Contact us at support@agilelogix.com with purchase code "
+"and number: "
+msgstr ""
+
+#: includes/admin/google-map.php:59
+#: agile-store-locator/includes/admin/google-map.php:59
+msgid "Error Occured saving Map."
+msgstr ""
+
+#: includes/admin/manager.php:218
+#: agile-store-locator/includes/admin/manager.php:218
+msgid "Error Occured, Please try Again."
+msgstr ""
+
+#: includes/admin/store.php:743
+#: agile-store-locator/includes/admin/store.php:743
+msgid "Error occurred while approving the records"
+msgstr ""
+
+#: includes/admin/store.php:713
+#: agile-store-locator/includes/admin/store.php:713
+msgid "Error occurred while Changing Status"
+msgstr ""
+
+#: includes/admin/lead.php:69 includes/admin/lead.php:75
+#: includes/admin/attribute.php:82 includes/admin/attribute.php:88
+#: includes/admin/category.php:142 includes/admin/category.php:148
+#: includes/admin/marker.php:115 includes/admin/marker.php:121
+#: includes/admin/logo.php:138 includes/admin/logo.php:144
+#: agile-store-locator/includes/admin/lead.php:69
+#: agile-store-locator/includes/admin/lead.php:75
+#: agile-store-locator/includes/admin/attribute.php:82
+#: agile-store-locator/includes/admin/attribute.php:88
+#: agile-store-locator/includes/admin/category.php:142
+#: agile-store-locator/includes/admin/category.php:148
+#: agile-store-locator/includes/admin/marker.php:115
+#: agile-store-locator/includes/admin/marker.php:121
+#: agile-store-locator/includes/admin/logo.php:138
+#: agile-store-locator/includes/admin/logo.php:144
+msgid "Error occurred while deleting record"
+msgstr ""
+
+#: includes/admin/lead.php:351 includes/admin/category.php:239
+#: includes/admin/marker.php:332 includes/admin/logo.php:239
+#: agile-store-locator/includes/admin/lead.php:351
+#: agile-store-locator/includes/admin/category.php:239
+#: agile-store-locator/includes/admin/marker.php:332
+#: agile-store-locator/includes/admin/logo.php:239
+msgid "Error occurred while geting record"
+msgstr ""
+
+#: includes/admin/store.php:680 includes/admin/attribute.php:126
+#: includes/admin/attribute.php:162 includes/admin/category.php:90
+#: includes/admin/marker.php:60
+#: agile-store-locator/includes/admin/store.php:680
+#: agile-store-locator/includes/admin/attribute.php:126
+#: agile-store-locator/includes/admin/attribute.php:162
+#: agile-store-locator/includes/admin/category.php:90
+#: agile-store-locator/includes/admin/marker.php:60
+msgid "Error occurred while saving record"
+msgstr ""
+
+#: includes/admin/store.php:462 includes/admin/store.php:534
+#: agile-store-locator/includes/admin/store.php:462
+#: agile-store-locator/includes/admin/store.php:534
+msgid "Error occurred while saving Store"
+msgstr ""
+
+#: includes/admin/marker.php:63
+#: agile-store-locator/includes/admin/marker.php:63
+msgid "Error occurred while uploading image."
+msgstr ""
+
+#: includes/admin/setting.php:177
+#: agile-store-locator/includes/admin/setting.php:177
+msgid "Error! Default Lat & Lng are invalid values, please try to swap them."
+msgstr ""
+
+#: includes/helper.php:1704 agile-store-locator/includes/helper.php:1704
+msgid "Error! fail to delete the file."
+msgstr ""
+
+#: includes/helper.php:820 includes/helper.php:854
+#: agile-store-locator/includes/helper.php:820
+#: agile-store-locator/includes/helper.php:854
+msgid "Error! fail to move the file, check permisions."
+msgstr ""
+
+#: includes/frontend/request.php:604
+#: agile-store-locator/includes/frontend/request.php:604
+msgid "Error! fail to send your email to the store."
+msgstr ""
+
+#: includes/admin/category.php:76 includes/admin/category.php:203
+#: includes/admin/marker.php:173 includes/admin/logo.php:72
+#: includes/admin/logo.php:202
+#: agile-store-locator/includes/admin/category.php:76
+#: agile-store-locator/includes/admin/category.php:203
+#: agile-store-locator/includes/admin/marker.php:173
+#: agile-store-locator/includes/admin/logo.php:72
+#: agile-store-locator/includes/admin/logo.php:202
+msgid "Error! Failed to upload the image."
+msgstr ""
+
+#: includes/admin/store.php:801
+#: agile-store-locator/includes/admin/store.php:801
+msgid ""
+"Error! Failed to validate for the coordinates by the Google API, validate "
+"the Server API key."
+msgstr ""
+
+#: includes/frontend/request.php:489 includes/frontend/request.php:640
+#: agile-store-locator/includes/frontend/request.php:489
+#: agile-store-locator/includes/frontend/request.php:640
+msgid "Error! Invalid contact details."
+msgstr ""
+
+#: includes/frontend/request.php:634
+#: agile-store-locator/includes/frontend/request.php:634
+msgid "Error! Invalid contact request."
+msgstr ""
+
+#: includes/frontend/request.php:474
+#: agile-store-locator/includes/frontend/request.php:474
+msgid "Error! Invalid lead contact request."
+msgstr ""
+
+#: includes/frontend/request.php:774
+#: agile-store-locator/includes/frontend/request.php:774
+msgid "Error! Invalid parameters provided."
+msgstr ""
+
+#: includes/frontend/request.php:763
+#: agile-store-locator/includes/frontend/request.php:763
+msgid "Error! Invalid register request."
+msgstr ""
+
+#: includes/frontend/request.php:886
+#: agile-store-locator/includes/frontend/request.php:886
+msgid "Error! Invalid Store data provided."
+msgstr ""
+
+#: includes/admin/setting.php:206
+#: agile-store-locator/includes/admin/setting.php:206
+msgid "Error! Lang is not defined."
+msgstr ""
+
+#: includes/admin/logo.php:43 agile-store-locator/includes/admin/logo.php:43
+msgid "Error! logo name is required."
+msgstr ""
+
+#: includes/admin/ajax-handler.php:168
+#: agile-store-locator/includes/admin/ajax-handler.php:168
+msgid "Error! method not exist!"
+msgstr ""
+
+#: includes/frontend/request.php:495 includes/frontend/request.php:646
+#: includes/frontend/request.php:840
+#: agile-store-locator/includes/frontend/request.php:495
+#: agile-store-locator/includes/frontend/request.php:646
+#: agile-store-locator/includes/frontend/request.php:840
+msgid "Error! Please fill up the stores parameters."
+msgstr ""
+
+#: includes/admin/ajax-handler.php:153
+#: agile-store-locator/includes/admin/ajax-handler.php:153
+msgid "Error! request verification fail."
+msgstr ""
+
+#: includes/admin/ajax-handler.php:190
+#: agile-store-locator/includes/admin/ajax-handler.php:190
+msgid "Error! route not found."
+msgstr ""
+
+#: includes/frontend/request.php:609 includes/frontend/request.php:736
+#: agile-store-locator/includes/frontend/request.php:609
+#: agile-store-locator/includes/frontend/request.php:736
+msgid "Error! Sorry there are no close store to your region."
+msgstr ""
+
+#: includes/admin/store.php:763
+#: agile-store-locator/includes/admin/store.php:763
+msgid "Error! Store not found."
+msgstr ""
+
+#: includes/helper.php:844 agile-store-locator/includes/helper.php:844
+msgid "Error! Template file doesn't exist."
+msgstr ""
+
+#: includes/helper.php:806 includes/helper.php:835
+#: agile-store-locator/includes/helper.php:806
+#: agile-store-locator/includes/helper.php:835
+msgid "Error! Template file is not valid."
+msgstr ""
+
+#: includes/admin/base.php:239 agile-store-locator/includes/admin/base.php:239
+msgid "Error! unkown file is uploaded."
+msgstr ""
+
+#: includes/admin/store.php:636
+#: agile-store-locator/includes/admin/store.php:636
+msgid "Error! Update id not found."
+msgstr ""
+
+#: includes/admin/import-export.php:870
+#: agile-store-locator/includes/admin/import-export.php:870
+msgid "Error! Wrong coordinates, invalid stores: "
+msgstr ""
+
+#: includes/admin/asset.php:135
+#: agile-store-locator/includes/admin/asset.php:135
+msgid "Error, file not moved, check permission."
+msgstr ""
+
+#: includes/admin/license.php:120
+#: agile-store-locator/includes/admin/license.php:120
+msgid "Expired"
+msgstr ""
+
+#: admin/partials/import_store.php:91
+#: agile-store-locator/admin/partials/import_store.php:91
+msgid "Export All"
+msgstr ""
+
+#: admin/partials/dashboard.php:200
+#: agile-store-locator/admin/partials/dashboard.php:200
+msgid "Export Analytics"
+msgstr ""
+
+#: admin/partials/manage_leads.php:44
+#: agile-store-locator/admin/partials/manage_leads.php:44
+msgid "Export Dealers"
+msgstr ""
+
+#: admin/partials/manage_leads.php:41
+#: agile-store-locator/admin/partials/manage_leads.php:41
+msgid "Export Leads"
+msgstr ""
+
+#: admin/partials/import_store.php:123
+#: agile-store-locator/admin/partials/import_store.php:123
+msgid "Export with Logo Images Path"
+msgstr ""
+
+#: admin/partials/import_store.php:119
+#: agile-store-locator/admin/partials/import_store.php:119
+msgid "Export with Store IDs (IDs are required for update)"
+msgstr ""
+
+#: admin/partials/dashboard.php:413
+#: agile-store-locator/admin/partials/dashboard.php:413
+msgid "Extension Installed"
+msgstr ""
+
+#: includes/admin/asset.php:95 agile-store-locator/includes/admin/asset.php:95
+msgid "Failed to Create the Backup"
+msgstr ""
+
+#: includes/admin/asset.php:130
+#: agile-store-locator/includes/admin/asset.php:130
+msgid "Failed to Imported Assets."
+msgstr ""
+
+#: admin/partials/add_store.php:69 admin/partials/edit_store.php:78
+#: includes/admin/store.php:984 includes/frontend/app.php:1709
+#: public/partials/template-frontend-deal.php:244
+#: public/partials/asl-store-form.php:52
+#: agile-store-locator/admin/partials/add_store.php:69
+#: agile-store-locator/admin/partials/edit_store.php:78
+#: agile-store-locator/includes/admin/store.php:984
+#: agile-store-locator/includes/frontend/app.php:1709
+#: agile-store-locator/public/partials/template-frontend-deal.php:244
+#: agile-store-locator/public/partials/asl-store-form.php:52
+msgid "Fax"
+msgstr ""
+
+#: admin/partials/import_store.php:76
+#: agile-store-locator/admin/partials/import_store.php:76
+msgid "Fetch Coordinates"
+msgstr ""
+
+#: admin/partials/import_store.php:78
+#: agile-store-locator/admin/partials/import_store.php:78
+msgid "Fetch Missing Coordinates"
+msgstr ""
+
+#: admin/partials/import_store.php:78
+#: agile-store-locator/admin/partials/import_store.php:78
+msgid "Fetching Coordinates..."
+msgstr ""
+
+#: includes/admin/setting.php:785
+#: agile-store-locator/includes/admin/setting.php:785
+msgid "Fields has been updated successfully."
+msgstr ""
+
+#: admin/partials/import_store.php:185
+#: agile-store-locator/admin/partials/import_store.php:185
+msgid "File"
+msgstr ""
+
+#: includes/helper.php:1701 agile-store-locator/includes/helper.php:1701
+msgid "File deleted successfully."
+msgstr ""
+
+#: admin/partials/import_store.php:133
+#: agile-store-locator/admin/partials/import_store.php:133
+msgid "File Name"
+msgstr ""
+
+#: admin/partials/categories.php:116 admin/partials/categories.php:169
+#: admin/partials/customize_map.php:85 admin/partials/markers.php:103
+#: admin/partials/markers.php:150 admin/partials/add_store.php:574
+#: admin/partials/edit_store.php:611 admin/partials/import_store.php:189
+#: agile-store-locator/admin/partials/categories.php:116
+#: agile-store-locator/admin/partials/categories.php:169
+#: agile-store-locator/admin/partials/customize_map.php:85
+#: agile-store-locator/admin/partials/markers.php:103
+#: agile-store-locator/admin/partials/markers.php:150
+#: agile-store-locator/admin/partials/add_store.php:574
+#: agile-store-locator/admin/partials/edit_store.php:611
+#: agile-store-locator/admin/partials/import_store.php:189
+msgid "File Path..."
+msgstr ""
+
+#: public/partials/asl-store-form.php:12
+#: agile-store-locator/public/partials/asl-store-form.php:12
+msgid ""
+"Fill up the form of your Store to register it for the approval by the "
+"administrator and it will list down in the Store Locator listing."
+msgstr ""
+
+#: includes/vendors/elementor/store-grid.php:239
+#: agile-store-locator/includes/vendors/elementor/store-grid.php:239
+msgid "Filter by City"
+msgstr ""
+
+#: includes/vendors/elementor/store-grid.php:249
+#: agile-store-locator/includes/vendors/elementor/store-grid.php:249
+msgid "Filter by State"
+msgstr ""
+
+#: public/partials/asl-lead-form.php:10
+#: agile-store-locator/public/partials/asl-lead-form.php:10
+msgid "Find a Dealer"
+msgstr ""
+
+#: public/partials/template-frontend-2.php:166
+#: agile-store-locator/public/partials/template-frontend-2.php:166
+msgid "Find A Store"
+msgstr "Ciutat / Població"
+
+#: admin/partials/ui-customizer-fields.php:18
+#: agile-store-locator/admin/partials/ui-customizer-fields.php:18
+msgid "Font Size"
+msgstr ""
+
+#: includes/helper.php:958 includes/helper.php:1033
+#: includes/frontend/request.php:302 includes/frontend/app.php:1749
+#: agile-store-locator/includes/helper.php:958
+#: agile-store-locator/includes/helper.php:1033
+#: agile-store-locator/includes/frontend/request.php:302
+#: agile-store-locator/includes/frontend/app.php:1749
+msgid "Fri"
+msgstr ""
+
+#: admin/partials/add_store.php:371 admin/partials/edit_store.php:398
+#: agile-store-locator/admin/partials/add_store.php:371
+#: agile-store-locator/admin/partials/edit_store.php:398
+msgid "Friday"
+msgstr ""
+
+#: public/partials/_agile_modal.php:10
+#: public/partials/template-frontend-deal.php:117
+#: agile-store-locator/public/partials/_agile_modal.php:10
+#: agile-store-locator/public/partials/template-frontend-deal.php:117
+msgid "From"
+msgstr "De"
+
+#: public/partials/asl-lead-form.php:18
+#: agile-store-locator/public/partials/asl-lead-form.php:18
+msgid "Full Name"
+msgstr ""
+
+#: includes/model/lead.php:66 includes/frontend/request.php:557
+#: includes/frontend/request.php:696
+#: agile-store-locator/includes/model/lead.php:66
+#: agile-store-locator/includes/frontend/request.php:557
+#: agile-store-locator/includes/frontend/request.php:696
+msgid "Full Name: "
+msgstr ""
+
+#: admin/partials/markers.php:34
+#: agile-store-locator/admin/partials/markers.php:34
+msgid "Generate Tool"
+msgstr ""
+
+#: admin/partials/dashboard.php:99
+#: agile-store-locator/admin/partials/dashboard.php:99
+msgid "Generate your Google Maps API key so  Map related features can work."
+msgstr ""
+
+#: admin/partials/shortcode-popup-html.php:43
+#: agile-store-locator/admin/partials/shortcode-popup-html.php:43
+msgid "Geo-Location Dialog"
+msgstr ""
+
+#: admin/partials/shortcode-popup-html.php:47
+#: agile-store-locator/admin/partials/shortcode-popup-html.php:47
+msgid "Geo-location Modal"
+msgstr ""
+
+#: includes/admin/manager.php:186
+#: agile-store-locator/includes/admin/manager.php:186
+msgid "Geocode was not Successful:"
+msgstr ""
+
+#: admin/partials/shortcode-popup-html.php:36
+#: includes/vendors/elementor/widget.php:163
+#: agile-store-locator/admin/partials/shortcode-popup-html.php:36
+#: agile-store-locator/includes/vendors/elementor/widget.php:163
+msgid "Geocoding on Enter key (Google Geocoding API)"
+msgstr ""
+
+#: admin/partials/shortcode-popup-html.php:50
+#: agile-store-locator/admin/partials/shortcode-popup-html.php:50
+msgid "GeoJS IP Service (Free API)"
+msgstr ""
+
+#: admin/partials/shortcode-popup-html.php:49
+#: agile-store-locator/admin/partials/shortcode-popup-html.php:49
+msgid "Geolocation On Load"
+msgstr ""
+
+#: public/partials/_agile_modal.php:26
+#: public/partials/template-frontend-deal.php:134
+#: agile-store-locator/public/partials/_agile_modal.php:26
+#: agile-store-locator/public/partials/template-frontend-deal.php:134
+msgid "GET DIRECTIONS"
+msgstr "Rebre indicacions"
+
+#: admin/partials/dashboard.php:219 admin/partials/dashboard.php:373
+#: agile-store-locator/admin/partials/dashboard.php:219
+#: agile-store-locator/admin/partials/dashboard.php:373
+msgid "Get Pro Version Now !"
+msgstr ""
+
+#: public/partials/_agile_modal.php:6
+#: public/partials/template-frontend-deal.php:114
+#: agile-store-locator/public/partials/_agile_modal.php:6
+#: agile-store-locator/public/partials/template-frontend-deal.php:114
+msgid "Get Your Directions"
+msgstr "Rebre indicacions"
+
+#: admin/partials/dashboard.php:397
+#: agile-store-locator/admin/partials/dashboard.php:397
+msgid "Google API Key"
+msgstr ""
+
+#: includes/admin/manager.php:604
+#: agile-store-locator/includes/admin/manager.php:604
+msgid "Google API Key is Missing"
+msgstr ""
+
+#: includes/vendors/borlabs.php:75
+#: agile-store-locator/includes/vendors/borlabs.php:75
+msgid ""
+"Google Maps has been blocked.<br>Click on <strong>Load Store Locator</strong>"
+" to unblock Google Maps library.<br> further details about the <a "
+"href=\"https://policies.google.com/privacy?hl=en\" target=\"_blank\" "
+"rel=\"nofollow\">Google Maps Privacy Policy</a> . "
+msgstr ""
+
+#: includes/admin/import-export.php:148
+#: agile-store-locator/includes/admin/import-export.php:148
+msgid "Google Server API Key is Missing."
+msgstr ""
+
+#: includes/admin/store.php:781
+#: agile-store-locator/includes/admin/store.php:781
+msgid "Google Server API key is missing."
+msgstr ""
+
+#: admin/partials/dashboard.php:397
+#: agile-store-locator/admin/partials/dashboard.php:397
+msgid ""
+"Green sign mean the Google API key is added in the plugin, doesn't mean you "
+"have configured it properly in Google Cloud Console."
+msgstr ""
+
+#: admin/partials/import_store.php:86
+#: agile-store-locator/admin/partials/import_store.php:86
+msgid "Guide article: "
+msgstr ""
+
+#: includes/vendors/elementor/widget.php:200
+#: agile-store-locator/includes/vendors/elementor/widget.php:200
+msgid "Head Title"
+msgstr ""
+
+#: admin/partials/manage_store.php:145
+#: agile-store-locator/admin/partials/manage_store.php:145
+msgid "Hidden Columns"
+msgstr ""
+
+#: includes/vendors/elementor/store-grid.php:195
+#: includes/vendors/elementor/store-grid.php:207
+#: includes/vendors/elementor/store-grid.php:219
+#: includes/vendors/elementor/store-grid.php:230
+#: agile-store-locator/includes/vendors/elementor/store-grid.php:195
+#: agile-store-locator/includes/vendors/elementor/store-grid.php:207
+#: agile-store-locator/includes/vendors/elementor/store-grid.php:219
+#: agile-store-locator/includes/vendors/elementor/store-grid.php:230
+msgid "Hide"
+msgstr ""
+
+#: includes/frontend/app.php:1713
+#: agile-store-locator/includes/frontend/app.php:1713
+msgid "Hide Details"
+msgstr "Amagar detalls"
+
+#: admin/partials/manage_store.php:70
+#: agile-store-locator/admin/partials/manage_store.php:70
+msgid "Hide Pending Stores"
+msgstr ""
+
+#: admin/partials/dashboard.php:77
+#: agile-store-locator/admin/partials/dashboard.php:77
+msgid "How it works?"
+msgstr ""
+
+#: admin/partials/customize_map.php:95
+#: agile-store-locator/admin/partials/customize_map.php:95
+msgid "How to use KML files?"
+msgstr ""
+
+#: includes/admin/setting.php:303
+#: agile-store-locator/includes/admin/setting.php:303
+msgid "HTML added in TextEditor"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://agilestorelocator.com"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://agilestorelocator.com/"
+msgstr ""
+
+#: public/partials/asl-store-form.php:189
+#: agile-store-locator/public/partials/asl-store-form.php:189
+msgid ""
+"I agree to terms and conditions and all the provided information is correct"
+msgstr ""
+
+#: admin/partials/categories.php:58 admin/partials/categories.php:165
+#: admin/partials/markers.php:54 admin/partials/markers.php:99
+#: admin/partials/markers.php:146 admin/partials/add_store.php:570
+#: admin/partials/edit_store.php:607
+#: agile-store-locator/admin/partials/categories.php:58
+#: agile-store-locator/admin/partials/categories.php:165
+#: agile-store-locator/admin/partials/markers.php:54
+#: agile-store-locator/admin/partials/markers.php:99
+#: agile-store-locator/admin/partials/markers.php:146
+#: agile-store-locator/admin/partials/add_store.php:570
+#: agile-store-locator/admin/partials/edit_store.php:607
+msgid "Icon"
+msgstr ""
+
+#: admin/partials/manage_leads.php:71 admin/partials/attribute_special.php:47
+#: admin/partials/attribute.php:47
+#: agile-store-locator/admin/partials/manage_leads.php:71
+#: agile-store-locator/admin/partials/attribute_special.php:47
+#: agile-store-locator/admin/partials/attribute.php:47
+msgid "ID"
+msgstr ""
+
+#: admin/partials/categories.php:112 admin/partials/logos.php:52
+#: agile-store-locator/admin/partials/categories.php:112
+#: agile-store-locator/admin/partials/logos.php:52
+msgid "Image"
+msgstr ""
+
+#: admin/partials/import_store.php:136 admin/partials/import_store.php:151
+#: agile-store-locator/admin/partials/import_store.php:136
+#: agile-store-locator/admin/partials/import_store.php:151
+msgid "Import"
+msgstr ""
+
+#: admin/partials/import_store.php:48
+#: agile-store-locator/admin/partials/import_store.php:48
+msgid "Import Stores"
+msgstr ""
+
+#: admin/partials/import_store.php:86
+#: agile-store-locator/admin/partials/import_store.php:86
+msgid "Import Stores Using Excel/CSV"
+msgstr ""
+
+#: includes/plugin.php:318 agile-store-locator/includes/plugin.php:318
+#: agile-store-locator/includes/plugin.php:318
+msgid "Import/Export Stores"
+msgstr ""
+
+#: admin/partials/import_store.php:84
+#: agile-store-locator/admin/partials/import_store.php:84
+msgid "Imported CSV Files"
+msgstr ""
+
+#: admin/partials/import_store.php:151
+#: agile-store-locator/admin/partials/import_store.php:151
+msgid "Importing..."
+msgstr ""
+
+#: includes/frontend/app.php:1735 public/partials/template-frontend-1.php:79
+#: agile-store-locator/includes/frontend/app.php:1735
+#: agile-store-locator/public/partials/template-frontend-1.php:79
+msgid "In"
+msgstr ""
+
+#: admin/partials/shortcode-popup-html.php:84
+#: agile-store-locator/admin/partials/shortcode-popup-html.php:84
+msgid "Insert Shortcode"
+msgstr ""
+
+#: includes/admin/manager.php:217
+#: agile-store-locator/includes/admin/manager.php:217
+msgid "Invalid File, Accepts JPG, PNG, GIF or SVG."
+msgstr ""
+
+#: admin/partials/import_store.php:114
+#: agile-store-locator/admin/partials/import_store.php:114
+msgid "It may slow import process for a large CSV file with 5k+ rows."
+msgstr ""
+
+#: admin/partials/dashboard.php:401
+#: agile-store-locator/admin/partials/dashboard.php:401
+msgid "JSON Cache"
+msgstr ""
+
+#: admin/partials/shortcode-popup-html.php:58
+#: public/partials/template-frontend-2.php:121
+#: public/partials/template-frontend-1.php:82
+#: public/partials/_agile_modal.php:19
+#: public/partials/template-frontend-deal.php:81
+#: public/partials/template-frontend-deal.php:127
+#: public/partials/template-frontend-4.php:110
+#: public/partials/template-frontend-0.php:123
+#: agile-store-locator/admin/partials/shortcode-popup-html.php:58
+#: agile-store-locator/public/partials/template-frontend-2.php:121
+#: agile-store-locator/public/partials/template-frontend-1.php:82
+#: agile-store-locator/public/partials/_agile_modal.php:19
+#: agile-store-locator/public/partials/template-frontend-deal.php:81
+#: agile-store-locator/public/partials/template-frontend-deal.php:127
+#: agile-store-locator/public/partials/template-frontend-4.php:110
+#: agile-store-locator/public/partials/template-frontend-0.php:123
+msgid "KM"
+msgstr "KM"
+
+#: includes/frontend/app.php:1707
+#: agile-store-locator/includes/frontend/app.php:1707
+msgid "Km"
+msgstr ""
+
+#: includes/admin/google-map.php:103
+#: agile-store-locator/includes/admin/google-map.php:103
+msgid "KML File uploaded successfully."
+msgstr ""
+
+#: admin/partials/customize_map.php:78
+#: agile-store-locator/admin/partials/customize_map.php:78
+msgid "KML Files"
+msgstr ""
+
+#: admin/partials/manage_store.php:103
+#: agile-store-locator/admin/partials/manage_store.php:103
+msgid "Lat"
+msgstr ""
+
+#: admin/partials/add_store.php:129 admin/partials/edit_store.php:138
+#: public/partials/asl-store-form.php:147
+#: agile-store-locator/admin/partials/add_store.php:129
+#: agile-store-locator/admin/partials/edit_store.php:138
+#: agile-store-locator/public/partials/asl-store-form.php:147
+msgid "Latitude"
+msgstr ""
+
+#: admin/partials/dashboard.php:343
+#: agile-store-locator/admin/partials/dashboard.php:343
+msgid "Lead Contact Form"
+msgstr ""
+
+#: includes/admin/lead.php:79 agile-store-locator/includes/admin/lead.php:79
+msgid "Lead deleted successfully."
+msgstr ""
+
+#: admin/partials/manage_leads.php:74
+#: agile-store-locator/admin/partials/manage_leads.php:74
+msgid "Lead Email"
+msgstr ""
+
+#: admin/partials/manage_leads.php:72
+#: agile-store-locator/admin/partials/manage_leads.php:72
+msgid "Lead Name"
+msgstr ""
+
+#: admin/partials/manage_leads.php:73
+#: agile-store-locator/admin/partials/manage_leads.php:73
+msgid "Lead Phone"
+msgstr ""
+
+#: includes/admin/lead.php:105 agile-store-locator/includes/admin/lead.php:105
+msgid "Lead Updated Successfully."
+msgstr ""
+
+#: includes/admin/lead.php:79 agile-store-locator/includes/admin/lead.php:79
+msgid "Leads deleted successfully."
+msgstr ""
+
+#: includes/plugin.php:321 agile-store-locator/includes/plugin.php:321
+#: agile-store-locator/includes/plugin.php:321
+msgid "Leads Manager"
+msgstr ""
+
+#: includes/admin/setting.php:73
+#: agile-store-locator/includes/admin/setting.php:73
+msgid "Level has been changed."
+msgstr ""
+
+#: includes/vendors/elementor/widget.php:175
+#: agile-store-locator/includes/vendors/elementor/widget.php:175
+msgid "List Format"
+msgstr ""
+
+#: admin/partials/manage_store.php:104
+#: agile-store-locator/admin/partials/manage_store.php:104
+msgid "Lng"
+msgstr ""
+
+#: includes/vendors/borlabs.php:76 public/partials/template-frontend-2.php:82
+#: public/partials/template-frontend-1.php:64
+#: public/partials/template-frontend-3.php:47
+#: public/partials/template-frontend-0.php:71
+#: agile-store-locator/includes/vendors/borlabs.php:76
+#: agile-store-locator/public/partials/template-frontend-2.php:82
+#: agile-store-locator/public/partials/template-frontend-1.php:64
+#: agile-store-locator/public/partials/template-frontend-3.php:47
+#: agile-store-locator/public/partials/template-frontend-0.php:71
+msgid "Load Store Locator"
+msgstr ""
+
+#: admin/partials/ui-customizer.php:32
+#: agile-store-locator/admin/partials/ui-customizer.php:32
+msgid "Load Template"
+msgstr ""
+
+#: admin/partials/manage_store.php:70
+#: agile-store-locator/admin/partials/manage_store.php:70
+msgid "Loading Stores"
+msgstr ""
+
+#: admin/partials/ui-customizer.php:32
+#: public/partials/template-frontend-2.php:96
+#: public/partials/template-frontend-list.php:32
+#: public/partials/template-frontend-1.php:141
+#: public/partials/template-frontend-deal.php:194
+#: public/partials/template-frontend-3.php:66
+#: public/partials/template-frontend-4.php:59
+#: public/partials/template-frontend-0.php:153
+#: agile-store-locator/admin/partials/ui-customizer.php:32
+#: agile-store-locator/public/partials/template-frontend-2.php:96
+#: agile-store-locator/public/partials/template-frontend-list.php:32
+#: agile-store-locator/public/partials/template-frontend-1.php:141
+#: agile-store-locator/public/partials/template-frontend-deal.php:194
+#: agile-store-locator/public/partials/template-frontend-3.php:66
+#: agile-store-locator/public/partials/template-frontend-4.php:59
+#: agile-store-locator/public/partials/template-frontend-0.php:153
+msgid "Loading..."
+msgstr "Carregant"
+
+#: public/partials/_agile_modal.php:47
+#: public/partials/template-frontend-deal.php:155
+#: agile-store-locator/public/partials/_agile_modal.php:47
+#: agile-store-locator/public/partials/template-frontend-deal.php:155
+msgid "LOCATE"
+msgstr "Localitzar"
+
+#: public/partials/_agile_modal.php:38
+#: public/partials/template-frontend-deal.php:147
+#: agile-store-locator/public/partials/_agile_modal.php:38
+#: agile-store-locator/public/partials/template-frontend-deal.php:147
+msgid "LOCATE YOUR GEOPOSITION"
+msgstr "Localitzar la teua posició"
+
+#: admin/partials/dashboard.php:401
+#: agile-store-locator/admin/partials/dashboard.php:401
+msgid "Locator JSON files are cached to serve speedy response."
+msgstr ""
+
+#: admin/partials/add_store.php:164 admin/partials/edit_store.php:173
+#: agile-store-locator/admin/partials/add_store.php:164
+#: agile-store-locator/admin/partials/edit_store.php:173
+msgid "Logo"
+msgstr ""
+
+#: includes/admin/logo.php:148 agile-store-locator/includes/admin/logo.php:148
+msgid "Logo deleted Successfully."
+msgstr ""
+
+#: admin/partials/manage_store.php:95 admin/partials/manage_store.php:116
+#: admin/partials/logos.php:50 admin/partials/logos.php:83
+#: agile-store-locator/admin/partials/manage_store.php:95
+#: agile-store-locator/admin/partials/manage_store.php:116
+#: agile-store-locator/admin/partials/logos.php:50
+#: agile-store-locator/admin/partials/logos.php:83
+msgid "Logo ID"
+msgstr ""
+
+#: includes/admin/logo.php:83 agile-store-locator/includes/admin/logo.php:83
+msgid "Logo is uploaded successfully."
+msgstr ""
+
+#: admin/partials/add_store.php:515 admin/partials/edit_store.php:554
+#: admin/partials/logos.php:141
+#: agile-store-locator/admin/partials/add_store.php:515
+#: agile-store-locator/admin/partials/edit_store.php:554
+#: agile-store-locator/admin/partials/logos.php:141
+msgid "Logo Name"
+msgstr ""
+
+#: includes/admin/logo.php:210 agile-store-locator/includes/admin/logo.php:210
+msgid "Logo updated successfully."
+msgstr ""
+
+#: includes/admin/logo.php:148 agile-store-locator/includes/admin/logo.php:148
+msgid "Logos deleted Successfully."
+msgstr ""
+
+#: admin/partials/add_store.php:133 admin/partials/edit_store.php:142
+#: public/partials/asl-store-form.php:154
+#: agile-store-locator/admin/partials/add_store.php:133
+#: agile-store-locator/admin/partials/edit_store.php:142
+#: agile-store-locator/public/partials/asl-store-form.php:154
+msgid "Longitude"
+msgstr ""
+
+#: includes/plugin.php:308 admin/partials/attribute.php:27
+#: agile-store-locator/includes/plugin.php:308
+#: agile-store-locator/includes/plugin.php:308
+#: agile-store-locator/admin/partials/attribute.php:27
+msgid "Manage Brands"
+msgstr ""
+
+#: includes/plugin.php:303 admin/partials/categories.php:27
+#: agile-store-locator/includes/plugin.php:303
+#: agile-store-locator/includes/plugin.php:303
+#: agile-store-locator/admin/partials/categories.php:27
+msgid "Manage Categories"
+msgstr ""
+
+#: admin/partials/manage_leads.php:30
+#: agile-store-locator/admin/partials/manage_leads.php:30
+msgid "Manage Leads"
+msgstr ""
+
+#: includes/plugin.php:312 admin/partials/logos.php:27
+#: agile-store-locator/includes/plugin.php:312
+#: agile-store-locator/includes/plugin.php:312
+#: agile-store-locator/admin/partials/logos.php:27
+msgid "Manage Logos"
+msgstr ""
+
+#: includes/plugin.php:311 admin/partials/markers.php:27
+#: agile-store-locator/includes/plugin.php:311
+#: agile-store-locator/includes/plugin.php:311
+#: agile-store-locator/admin/partials/markers.php:27
+msgid "Manage Markers"
+msgstr ""
+
+#: includes/plugin.php:307 agile-store-locator/includes/plugin.php:307
+#: agile-store-locator/includes/plugin.php:307
+msgid "Manage Specialities"
+msgstr ""
+
+#: admin/partials/attribute_special.php:27
+#: agile-store-locator/admin/partials/attribute_special.php:27
+msgid "Manage Speciality"
+msgstr ""
+
+#: includes/plugin.php:302 admin/partials/manage_store.php:32
+#: agile-store-locator/includes/plugin.php:302
+#: agile-store-locator/includes/plugin.php:302
+#: agile-store-locator/admin/partials/manage_store.php:32
+msgid "Manage Stores"
+msgstr ""
+
+#: includes/admin/google-map.php:55
+#: agile-store-locator/includes/admin/google-map.php:55
+msgid "Map has been updated successfully."
+msgstr ""
+
+#: admin/partials/add_store.php:151 admin/partials/edit_store.php:160
+#: agile-store-locator/admin/partials/add_store.php:151
+#: agile-store-locator/admin/partials/edit_store.php:160
+msgid "Marker"
+msgstr ""
+
+#: includes/admin/marker.php:55
+#: agile-store-locator/includes/admin/marker.php:55
+msgid "Marker added successfully"
+msgstr ""
+
+#: admin/partials/customize_map.php:157
+#: agile-store-locator/admin/partials/customize_map.php:157
+msgid "Marker Animation"
+msgstr ""
+
+#: includes/admin/marker.php:125
+#: agile-store-locator/includes/admin/marker.php:125
+msgid "Marker deleted successfully."
+msgstr ""
+
+#: admin/partials/markers.php:52 admin/partials/manage_store.php:94
+#: admin/partials/manage_store.php:115
+#: agile-store-locator/admin/partials/markers.php:52
+#: agile-store-locator/admin/partials/manage_store.php:94
+#: agile-store-locator/admin/partials/manage_store.php:115
+msgid "Marker ID"
+msgstr ""
+
+#: admin/partials/markers.php:140 admin/partials/add_store.php:564
+#: admin/partials/edit_store.php:601
+#: agile-store-locator/admin/partials/markers.php:140
+#: agile-store-locator/admin/partials/add_store.php:564
+#: agile-store-locator/admin/partials/edit_store.php:601
+msgid "Marker Name"
+msgstr ""
+
+#: includes/admin/marker.php:182
+#: agile-store-locator/includes/admin/marker.php:182
+msgid "Marker Updated Successfully."
+msgstr ""
+
+#: admin/partials/dashboard.php:148
+#: agile-store-locator/admin/partials/dashboard.php:148
+msgid "Markers"
+msgstr ""
+
+#: includes/admin/marker.php:125
+#: agile-store-locator/includes/admin/marker.php:125
+msgid "Markers deleted successfully."
+msgstr ""
+
+#: admin/partials/import_store.php:54
+#: agile-store-locator/admin/partials/import_store.php:54
+msgid ""
+"Mbstring extension is not installed on your server, contact your server "
+"admin OR login to your cpanel and enable it. Import will not work without "
+"this extension."
+msgstr ""
+
+#: admin/partials/dashboard.php:417
+#: agile-store-locator/admin/partials/dashboard.php:417
+msgid "Memory Limit"
+msgstr ""
+
+#: public/partials/asl-lead-form.php:38
+#: public/partials/_agile_contact_modal.php:30
+#: agile-store-locator/public/partials/asl-lead-form.php:38
+#: agile-store-locator/public/partials/_agile_contact_modal.php:30
+msgid "Message"
+msgstr ""
+
+#: includes/model/lead.php:73 includes/frontend/request.php:565
+#: includes/frontend/request.php:703
+#: agile-store-locator/includes/model/lead.php:73
+#: agile-store-locator/includes/frontend/request.php:565
+#: agile-store-locator/includes/frontend/request.php:703
+msgid "Message: "
+msgstr ""
+
+#: public/partials/_agile_modal.php:22
+#: public/partials/template-frontend-deal.php:130
+#: agile-store-locator/public/partials/_agile_modal.php:22
+#: agile-store-locator/public/partials/template-frontend-deal.php:130
+msgid "Mile"
+msgstr ""
+
+#: admin/partials/shortcode-popup-html.php:61 includes/frontend/app.php:1706
+#: agile-store-locator/admin/partials/shortcode-popup-html.php:61
+#: agile-store-locator/includes/frontend/app.php:1706
+msgid "Miles"
+msgstr ""
+
+#: includes/admin/import-export.php:141
+#: agile-store-locator/includes/admin/import-export.php:141
+msgid "Missing Coordinates are not Found in Store Listing"
+msgstr ""
+
+#: includes/admin/import-export.php:144
+#: agile-store-locator/includes/admin/import-export.php:144
+msgid "Missing Coordinates Request Completed"
+msgstr ""
+
+#: includes/helper.php:958 includes/helper.php:1033
+#: includes/frontend/request.php:302 includes/frontend/app.php:1749
+#: agile-store-locator/includes/helper.php:958
+#: agile-store-locator/includes/helper.php:1033
+#: agile-store-locator/includes/frontend/request.php:302
+#: agile-store-locator/includes/frontend/app.php:1749
+msgid "Mon"
+msgstr ""
+
+#: admin/partials/add_store.php:236 admin/partials/edit_store.php:248
+#: agile-store-locator/admin/partials/add_store.php:236
+#: agile-store-locator/admin/partials/edit_store.php:248
+msgid "Monday"
+msgstr ""
+
+#: admin/partials/dashboard.php:279
+#: agile-store-locator/admin/partials/dashboard.php:279
+msgid "Most Search Locations"
+msgstr ""
+
+#: admin/partials/dashboard.php:259
+#: agile-store-locator/admin/partials/dashboard.php:259
+msgid "Most Views Stores"
+msgstr ""
+
+#: admin/partials/dashboard.php:369
+#: agile-store-locator/admin/partials/dashboard.php:369
+msgid "Multiple Color Schemes For Templates"
+msgstr ""
+
+#: admin/partials/attribute_special.php:48 admin/partials/categories.php:56
+#: admin/partials/categories.php:97 admin/partials/categories.php:155
+#: admin/partials/markers.php:53 admin/partials/markers.php:88
+#: admin/partials/add_store.php:514 admin/partials/edit_store.php:553
+#: admin/partials/attribute.php:48 admin/partials/logos.php:51
+#: admin/partials/logos.php:87 admin/partials/logos.php:140
+#: public/partials/asl-store-form.php:31
+#: agile-store-locator/admin/partials/attribute_special.php:48
+#: agile-store-locator/admin/partials/categories.php:56
+#: agile-store-locator/admin/partials/categories.php:97
+#: agile-store-locator/admin/partials/categories.php:155
+#: agile-store-locator/admin/partials/markers.php:53
+#: agile-store-locator/admin/partials/markers.php:88
+#: agile-store-locator/admin/partials/add_store.php:514
+#: agile-store-locator/admin/partials/edit_store.php:553
+#: agile-store-locator/admin/partials/attribute.php:48
+#: agile-store-locator/admin/partials/logos.php:51
+#: agile-store-locator/admin/partials/logos.php:87
+#: agile-store-locator/admin/partials/logos.php:140
+#: agile-store-locator/public/partials/asl-store-form.php:31
+msgid "Name"
+msgstr ""
+
+#: admin/partials/attribute.php:32
+#: agile-store-locator/admin/partials/attribute.php:32
+msgid "New Brand"
+msgstr ""
+
+#: admin/partials/categories.php:35
+#: agile-store-locator/admin/partials/categories.php:35
+msgid "New Category"
+msgstr ""
+
+#: admin/partials/add_store.php:167 admin/partials/edit_store.php:176
+#: admin/partials/logos.php:35
+#: agile-store-locator/admin/partials/add_store.php:167
+#: agile-store-locator/admin/partials/edit_store.php:176
+#: agile-store-locator/admin/partials/logos.php:35
+msgid "New Logo"
+msgstr ""
+
+#: admin/partials/markers.php:36 admin/partials/add_store.php:158
+#: admin/partials/edit_store.php:167
+#: agile-store-locator/admin/partials/markers.php:36
+#: agile-store-locator/admin/partials/add_store.php:158
+#: agile-store-locator/admin/partials/edit_store.php:167
+msgid "New Marker"
+msgstr ""
+
+#: admin/partials/attribute_special.php:32
+#: agile-store-locator/admin/partials/attribute_special.php:32
+msgid "New Speciality"
+msgstr ""
+
+#: admin/partials/manage_store.php:62
+#: agile-store-locator/admin/partials/manage_store.php:62
+msgid "New Store"
+msgstr ""
+
+#: includes/admin/store.php:871
+#: agile-store-locator/includes/admin/store.php:871
+msgid "New store is registered with these details."
+msgstr ""
+
+#: admin/partials/add_store.php:218 admin/partials/edit_store.php:227
+#: agile-store-locator/admin/partials/add_store.php:218
+#: agile-store-locator/admin/partials/edit_store.php:227
+msgid "No"
+msgstr ""
+
+#: includes/admin/store.php:408
+#: agile-store-locator/includes/admin/store.php:408
+msgid "No Duplicate deleted!"
+msgstr ""
+
+#: admin/partials/customize_map.php:106
+#: agile-store-locator/admin/partials/customize_map.php:106
+msgid "No KML File Exist!"
+msgstr ""
+
+#: admin/partials/import_store.php:107 includes/frontend/app.php:544
+#: includes/frontend/app.php:1695 includes/frontend/app.php:1715
+#: agile-store-locator/admin/partials/import_store.php:107
+#: agile-store-locator/includes/frontend/app.php:544
+#: agile-store-locator/includes/frontend/app.php:1695
+#: agile-store-locator/includes/frontend/app.php:1715
+msgid "None"
+msgstr "Cap"
+
+#: includes/frontend/app.php:546 includes/frontend/app.php:1699
+#: agile-store-locator/includes/frontend/app.php:546
+#: agile-store-locator/includes/frontend/app.php:1699
+msgid "None Selected"
+msgstr ""
+
+#: public/partials/template-frontend-2.php:67
+#: public/partials/template-frontend-1.php:49
+#: public/partials/template-frontend-deal.php:3
+#: public/partials/template-frontend-3.php:87
+#: public/partials/template-frontend-0.php:55
+#: agile-store-locator/public/partials/template-frontend-2.php:67
+#: agile-store-locator/public/partials/template-frontend-1.php:49
+#: agile-store-locator/public/partials/template-frontend-deal.php:3
+#: agile-store-locator/public/partials/template-frontend-3.php:87
+#: agile-store-locator/public/partials/template-frontend-0.php:55
+msgid "OPEN"
+msgstr ""
+
+#: includes/frontend/app.php:1739
+#: agile-store-locator/includes/frontend/app.php:1739
+msgid "Open"
+msgstr ""
+
+#: admin/partials/add_store.php:258 admin/partials/add_store.php:292
+#: admin/partials/add_store.php:325 admin/partials/add_store.php:358
+#: admin/partials/add_store.php:392 admin/partials/add_store.php:425
+#: admin/partials/add_store.php:459 admin/partials/edit_store.php:273
+#: admin/partials/edit_store.php:311 admin/partials/edit_store.php:348
+#: admin/partials/edit_store.php:385 admin/partials/edit_store.php:423
+#: admin/partials/edit_store.php:460 admin/partials/edit_store.php:498
+#: agile-store-locator/admin/partials/add_store.php:258
+#: agile-store-locator/admin/partials/add_store.php:292
+#: agile-store-locator/admin/partials/add_store.php:325
+#: agile-store-locator/admin/partials/add_store.php:358
+#: agile-store-locator/admin/partials/add_store.php:392
+#: agile-store-locator/admin/partials/add_store.php:425
+#: agile-store-locator/admin/partials/add_store.php:459
+#: agile-store-locator/admin/partials/edit_store.php:273
+#: agile-store-locator/admin/partials/edit_store.php:311
+#: agile-store-locator/admin/partials/edit_store.php:348
+#: agile-store-locator/admin/partials/edit_store.php:385
+#: agile-store-locator/admin/partials/edit_store.php:423
+#: agile-store-locator/admin/partials/edit_store.php:460
+#: agile-store-locator/admin/partials/edit_store.php:498
+msgid "Open 24 Hour"
+msgstr ""
+
+#: admin/partials/attribute_special.php:49 admin/partials/categories.php:101
+#: admin/partials/categories.php:159 admin/partials/attribute.php:49
+#: agile-store-locator/admin/partials/attribute_special.php:49
+#: agile-store-locator/admin/partials/categories.php:101
+#: agile-store-locator/admin/partials/categories.php:159
+#: agile-store-locator/admin/partials/attribute.php:49
+msgid "Order"
+msgstr ""
+
+#: admin/partials/categories.php:48 admin/partials/categories.php:57
+#: agile-store-locator/admin/partials/categories.php:48
+#: agile-store-locator/admin/partials/categories.php:57
+msgid "Order ID"
+msgstr ""
+
+#: admin/partials/add_store.php:80 admin/partials/edit_store.php:89
+#: agile-store-locator/admin/partials/add_store.php:80
+#: agile-store-locator/admin/partials/edit_store.php:89
+msgid "Other Details"
+msgstr ""
+
+#: admin/partials/dashboard.php:322
+#: agile-store-locator/admin/partials/dashboard.php:322
+msgid ""
+"Our plugin includes a search widget that can be added anywhere on your "
+"website for address searching."
+msgstr ""
+
+#: admin/partials/dashboard.php:333
+#: agile-store-locator/admin/partials/dashboard.php:333
+msgid ""
+"Our Plugin lets you register multiple stores on the registration page to "
+"display on the store locator page."
+msgstr ""
+
+#: admin/partials/dashboard.php:185
+#: agile-store-locator/admin/partials/dashboard.php:185
+msgid "Period"
+msgstr ""
+
+#: admin/partials/manage_store.php:109 admin/partials/add_store.php:63
+#: admin/partials/edit_store.php:72 admin/partials/import_store.php:110
+#: includes/admin/store.php:979 includes/frontend/app.php:1708
+#: public/partials/asl-store-form.php:45
+#: agile-store-locator/admin/partials/manage_store.php:109
+#: agile-store-locator/admin/partials/add_store.php:63
+#: agile-store-locator/admin/partials/edit_store.php:72
+#: agile-store-locator/admin/partials/import_store.php:110
+#: agile-store-locator/includes/admin/store.php:979
+#: agile-store-locator/includes/frontend/app.php:1708
+#: agile-store-locator/public/partials/asl-store-form.php:45
+msgid "Phone"
+msgstr "Telèfon"
+
+#: public/partials/asl-lead-form.php:28
+#: agile-store-locator/public/partials/asl-lead-form.php:28
+msgid "Phone Name"
+msgstr ""
+
+#: includes/model/lead.php:68 includes/frontend/request.php:559
+#: agile-store-locator/includes/model/lead.php:68
+#: agile-store-locator/includes/frontend/request.php:559
+msgid "Phone: "
+msgstr ""
+
+#: includes/frontend/app.php:1687
+#: agile-store-locator/includes/frontend/app.php:1687
+msgid "Pickup Here"
+msgstr ""
+
+#: public/partials/asl-store-form.php:192
+#: agile-store-locator/public/partials/asl-store-form.php:192
+msgid "Please agree to register for store in the listing."
+msgstr ""
+
+#: public/partials/_agile_contact_modal.php:30
+#: agile-store-locator/public/partials/_agile_contact_modal.php:30
+msgid "Please enter message"
+msgstr ""
+
+#: public/partials/asl-lead-form.php:28
+#: agile-store-locator/public/partials/asl-lead-form.php:28
+msgid "Please enter phone number"
+msgstr ""
+
+#: public/partials/asl-lead-form.php:23
+#: public/partials/_agile_contact_modal.php:27
+#: agile-store-locator/public/partials/asl-lead-form.php:23
+#: agile-store-locator/public/partials/_agile_contact_modal.php:27
+msgid "Please enter valid email"
+msgstr ""
+
+#: public/partials/asl-lead-form.php:18
+#: public/partials/_agile_contact_modal.php:24
+#: agile-store-locator/public/partials/asl-lead-form.php:18
+#: agile-store-locator/public/partials/_agile_contact_modal.php:24
+msgid "Please enter your name"
+msgstr ""
+
+#: public/partials/asl-lead-form.php:33
+#: agile-store-locator/public/partials/asl-lead-form.php:33
+msgid "Please enter zip code"
+msgstr ""
+
+#: includes/frontend/app.php:713 includes/frontend/app.php:814
+#: agile-store-locator/includes/frontend/app.php:713
+#: agile-store-locator/includes/frontend/app.php:814
+msgid "Please fill up the form."
+msgstr ""
+
+#: includes/admin/asset.php:112
+#: agile-store-locator/includes/admin/asset.php:112
+msgid "Please login with Administrator Account."
+msgstr ""
+
+#: admin/partials/import_store.php:86
+#: agile-store-locator/admin/partials/import_store.php:86
+msgid ""
+"Please upload your CSV file and then import it though the import button, "
+"please make sure to follow the given template and the columns should be in "
+"the right format as described in the documentation or simply use Template."
+"csv format, please validate your API Key before import."
+msgstr ""
+
+#: admin/partials/import_store.php:77
+#: agile-store-locator/admin/partials/import_store.php:77
+msgid ""
+"Please use fetch coordinates button to fill your missing coordinates "
+"(Lat/Lng) of your stores through the Google Geocoding API Service, it is "
+"important to validate the response of the Google Server Maps API Key and "
+"that should report \"Valid API Key\"."
+msgstr ""
+
+#: includes/admin/manager.php:221
+#: agile-store-locator/includes/admin/manager.php:221
+msgid "PLEASE VALIDATE PURCHASE CODE!"
+msgstr ""
+
+#: admin/partials/import_store.php:60
+#: agile-store-locator/admin/partials/import_store.php:60
+msgid ""
+"Please Validate the Google Server API Key before Import process, to make "
+"sure the coordinates will be fetched correctly through the Google Maps API, "
+"ASL is not responsible if Google API doesn't provide correct values, please "
+"save your Server Google API Key in ASL Settings."
+msgstr ""
+
+#: admin/partials/dashboard.php:393
+#: agile-store-locator/admin/partials/dashboard.php:393
+msgid "Plugin version"
+msgstr ""
+
+#: admin/partials/manage_leads.php:75 admin/partials/manage_store.php:112
+#: admin/partials/add_store.php:109 admin/partials/edit_store.php:118
+#: includes/admin/store.php:999 public/partials/asl-store-form.php:123
+#: agile-store-locator/admin/partials/manage_leads.php:75
+#: agile-store-locator/admin/partials/manage_store.php:112
+#: agile-store-locator/admin/partials/add_store.php:109
+#: agile-store-locator/admin/partials/edit_store.php:118
+#: agile-store-locator/includes/admin/store.php:999
+#: agile-store-locator/public/partials/asl-store-form.php:123
+msgid "Postal Code"
+msgstr ""
+
+#: includes/model/lead.php:69 includes/frontend/request.php:560
+#: agile-store-locator/includes/model/lead.php:69
+#: agile-store-locator/includes/frontend/request.php:560
+msgid "Postal Code: "
+msgstr ""
+
+#: public/partials/_agile_modal.php:15
+#: public/partials/template-frontend-deal.php:122
+#: agile-store-locator/public/partials/_agile_modal.php:15
+#: agile-store-locator/public/partials/template-frontend-deal.php:122
+msgid "Prepopulated Destination Address"
+msgstr ""
+
+#: public/partials/template-frontend-1.php:148
+#: public/partials/template-frontend-0.php:169
+#: agile-store-locator/public/partials/template-frontend-1.php:148
+#: agile-store-locator/public/partials/template-frontend-0.php:169
+msgid "PRINT"
+msgstr ""
+
+#: public/partials/template-frontend-list.php:140
+#: public/partials/template-frontend-4.php:154
+#: agile-store-locator/public/partials/template-frontend-list.php:140
+#: agile-store-locator/public/partials/template-frontend-4.php:154
+msgid "Print"
+msgstr ""
+
+#: admin/partials/add_store.php:199 admin/partials/edit_store.php:208
+#: agile-store-locator/admin/partials/add_store.php:199
+#: agile-store-locator/admin/partials/edit_store.php:208
+msgid "Priority Order"
+msgstr ""
+
+#: public/partials/template-frontend-2.php:121
+#: public/partials/template-frontend-1.php:82
+#: public/partials/template-frontend-deal.php:81
+#: public/partials/template-frontend-4.php:110
+#: public/partials/template-frontend-0.php:123
+#: agile-store-locator/public/partials/template-frontend-2.php:121
+#: agile-store-locator/public/partials/template-frontend-1.php:82
+#: agile-store-locator/public/partials/template-frontend-deal.php:81
+#: agile-store-locator/public/partials/template-frontend-4.php:110
+#: agile-store-locator/public/partials/template-frontend-0.php:123
+msgid "Radius"
+msgstr "Radio"
+
+#: includes/frontend/app.php:1717
+#: agile-store-locator/includes/frontend/app.php:1717
+msgid "Radius Circle"
+msgstr ""
+
+#: includes/frontend/request.php:698
+#: agile-store-locator/includes/frontend/request.php:698
+msgid "Rating: "
+msgstr ""
+
+#: includes/admin/manager.php:222
+#: agile-store-locator/includes/admin/manager.php:222
+msgid ""
+"Re-validate your purchase license to see the support status. <a "
+"target=\"_blank\" href=\"https://agilestorelocator.com/wiki/store-locator-"
+"purchase-code/\">How to Get My Purchase Code?</a>"
+msgstr ""
+
+#: includes/frontend/app.php:1712
+#: agile-store-locator/includes/frontend/app.php:1712
+msgid "Read more"
+msgstr "Llegir més"
+
+#: admin/partials/dashboard.php:389
+#: agile-store-locator/admin/partials/dashboard.php:389
+msgid "Refresh"
+msgstr ""
+
+#: includes/frontend/app.php:1730
+#: agile-store-locator/includes/frontend/app.php:1730
+msgid "Region"
+msgstr ""
+
+#: public/partials/asl-store-form.php:199
+#: agile-store-locator/public/partials/asl-store-form.php:199
+msgid "Register"
+msgstr ""
+
+#: public/partials/asl-store-form.php:11
+#: agile-store-locator/public/partials/asl-store-form.php:11
+msgid "Register your Store!"
+msgstr ""
+
+#: public/partials/asl-store-form.php:199
+#: agile-store-locator/public/partials/asl-store-form.php:199
+msgid "Registering..."
+msgstr ""
+
+#: includes/admin/manager.php:198
+#: agile-store-locator/includes/admin/manager.php:198
+msgid "Remove"
+msgstr ""
+
+#: admin/partials/import_store.php:98
+#: agile-store-locator/admin/partials/import_store.php:98
+msgid "Remove Duplicates"
+msgstr ""
+
+#: includes/admin/manager.php:196
+#: agile-store-locator/includes/admin/manager.php:196
+msgid "Remove Template"
+msgstr ""
+
+#: admin/partials/dashboard.php:106
+#: agile-store-locator/admin/partials/dashboard.php:106
+msgid ""
+"Remove the dummy stores through Manage Stores and add your own store "
+"locations."
+msgstr ""
+
+#: admin/partials/import_store.php:98
+#: agile-store-locator/admin/partials/import_store.php:98
+msgid "Removing..."
+msgstr ""
+
+#: includes/frontend/app.php:1700
+#: agile-store-locator/includes/frontend/app.php:1700
+msgid "Reset Map"
+msgstr ""
+
+#: admin/partials/ui-customizer.php:38
+#: agile-store-locator/admin/partials/ui-customizer.php:38
+msgid "Reset Template"
+msgstr ""
+
+#: admin/partials/ui-customizer.php:38
+#: agile-store-locator/admin/partials/ui-customizer.php:38
+msgid "Reseting..."
+msgstr ""
+
+#: admin/partials/dashboard.php:229
+#: agile-store-locator/admin/partials/dashboard.php:229
+msgid "Rows"
+msgstr ""
+
+#: admin/partials/add_store.php:228 admin/partials/edit_store.php:240
+#: agile-store-locator/admin/partials/add_store.php:228
+#: agile-store-locator/admin/partials/edit_store.php:240
+msgid "Same Everyday"
+msgstr ""
+
+#: includes/helper.php:958 includes/helper.php:1033
+#: includes/frontend/request.php:302 includes/frontend/app.php:1749
+#: agile-store-locator/includes/helper.php:958
+#: agile-store-locator/includes/helper.php:1033
+#: agile-store-locator/includes/frontend/request.php:302
+#: agile-store-locator/includes/frontend/app.php:1749
+msgid "Sat"
+msgstr ""
+
+#: admin/partials/add_store.php:404 admin/partials/edit_store.php:435
+#: agile-store-locator/admin/partials/add_store.php:404
+#: agile-store-locator/admin/partials/edit_store.php:435
+msgid "Saturday"
+msgstr ""
+
+#: admin/partials/manage_store.php:156
+#: agile-store-locator/admin/partials/manage_store.php:156
+msgid "Save"
+msgstr ""
+
+#: admin/partials/customize_map.php:168
+#: agile-store-locator/admin/partials/customize_map.php:168
+msgid "Save Customization"
+msgstr ""
+
+#: admin/partials/ui-customizer.php:35
+#: agile-store-locator/admin/partials/ui-customizer.php:35
+msgid "Save Settings"
+msgstr ""
+
+#: admin/partials/add_store.php:489 admin/partials/edit_store.php:528
+#: agile-store-locator/admin/partials/add_store.php:489
+#: agile-store-locator/admin/partials/edit_store.php:528
+msgid "Saving Store..."
+msgstr ""
+
+#: admin/partials/ui-customizer.php:35 admin/partials/customize_map.php:168
+#: agile-store-locator/admin/partials/ui-customizer.php:35
+#: agile-store-locator/admin/partials/customize_map.php:168
+msgid "Saving..."
+msgstr ""
+
+#: includes/frontend/app.php:1701
+#: agile-store-locator/includes/frontend/app.php:1701
+msgid "Scan Area"
+msgstr ""
+
+#: includes/frontend/app.php:542 includes/frontend/app.php:1693
+#: public/partials/template-frontend-list.php:11
+#: public/partials/template-frontend-list.php:57
+#: public/partials/template-frontend-list.php:58
+#: public/partials/asl-search.php:57 public/partials/template-frontend-3.php:27
+#: public/partials/template-frontend-4.php:26
+#: public/partials/template-frontend-4.php:131
+#: agile-store-locator/includes/frontend/app.php:542
+#: agile-store-locator/includes/frontend/app.php:1693
+#: agile-store-locator/public/partials/template-frontend-list.php:11
+#: agile-store-locator/public/partials/template-frontend-list.php:57
+#: agile-store-locator/public/partials/template-frontend-list.php:58
+#: agile-store-locator/public/partials/asl-search.php:57
+#: agile-store-locator/public/partials/template-frontend-3.php:27
+#: agile-store-locator/public/partials/template-frontend-4.php:26
+#: agile-store-locator/public/partials/template-frontend-4.php:131
+msgid "Search"
+msgstr "Cercar"
+
+#: includes/frontend/app.php:1740
+#: agile-store-locator/includes/frontend/app.php:1740
+msgid "Search an address to see the nearest stores."
+msgstr ""
+
+#: admin/partials/shortcode-popup-html.php:33
+#: includes/vendors/elementor/widget.php:160
+#: agile-store-locator/admin/partials/shortcode-popup-html.php:33
+#: agile-store-locator/includes/vendors/elementor/widget.php:160
+msgid "Search By Address (Google)"
+msgstr ""
+
+#: admin/partials/shortcode-popup-html.php:34
+#: includes/vendors/elementor/widget.php:161
+#: agile-store-locator/admin/partials/shortcode-popup-html.php:34
+#: agile-store-locator/includes/vendors/elementor/widget.php:161
+msgid "Search By Store Name (Database)"
+msgstr ""
+
+#: admin/partials/shortcode-popup-html.php:35
+#: includes/vendors/elementor/widget.php:162
+#: agile-store-locator/admin/partials/shortcode-popup-html.php:35
+#: agile-store-locator/includes/vendors/elementor/widget.php:162
+msgid "Search By Stores Cities, States (Database)"
+msgstr ""
+
+#: admin/partials/manage_store.php:86
+#: agile-store-locator/admin/partials/manage_store.php:86
+msgid "Search City"
+msgstr ""
+
+#: admin/partials/manage_store.php:87
+#: agile-store-locator/admin/partials/manage_store.php:87
+msgid "Search Country"
+msgstr ""
+
+#: admin/partials/manage_store.php:89
+#: agile-store-locator/admin/partials/manage_store.php:89
+msgid "Search Email"
+msgstr ""
+
+#: admin/partials/manage_leads.php:61 admin/partials/attribute_special.php:39
+#: admin/partials/categories.php:45 admin/partials/categories.php:46
+#: admin/partials/markers.php:45 admin/partials/manage_store.php:76
+#: admin/partials/manage_store.php:78 admin/partials/manage_store.php:80
+#: admin/partials/attribute.php:39 admin/partials/logos.php:43
+#: agile-store-locator/admin/partials/manage_leads.php:61
+#: agile-store-locator/admin/partials/attribute_special.php:39
+#: agile-store-locator/admin/partials/categories.php:45
+#: agile-store-locator/admin/partials/categories.php:46
+#: agile-store-locator/admin/partials/markers.php:45
+#: agile-store-locator/admin/partials/manage_store.php:76
+#: agile-store-locator/admin/partials/manage_store.php:78
+#: agile-store-locator/admin/partials/manage_store.php:80
+#: agile-store-locator/admin/partials/attribute.php:39
+#: agile-store-locator/admin/partials/logos.php:43
+msgid "Search ID"
+msgstr ""
+
+#: admin/partials/manage_store.php:82
+#: agile-store-locator/admin/partials/manage_store.php:82
+msgid "Search Lat"
+msgstr ""
+
+#: admin/partials/manage_leads.php:64
+#: agile-store-locator/admin/partials/manage_leads.php:64
+msgid "Search Lead Email"
+msgstr ""
+
+#: admin/partials/manage_leads.php:62
+#: agile-store-locator/admin/partials/manage_leads.php:62
+msgid "Search Lead Name"
+msgstr ""
+
+#: admin/partials/manage_leads.php:63
+#: agile-store-locator/admin/partials/manage_leads.php:63
+msgid "Search Lead Phone"
+msgstr ""
+
+#: admin/partials/manage_store.php:83
+#: agile-store-locator/admin/partials/manage_store.php:83
+msgid "Search Lng"
+msgstr ""
+
+#: public/partials/template-frontend-2.php:168
+#: public/partials/template-frontend-1.php:72
+#: public/partials/template-frontend-1.php:75
+#: public/partials/template-frontend-deal.php:42
+#: public/partials/template-frontend-deal.php:45
+#: public/partials/template-frontend-deal.php:176
+#: public/partials/template-frontend-deal.php:179
+#: public/partials/template-frontend-4.php:70
+#: public/partials/template-frontend-4.php:130
+#: public/partials/template-frontend-0.php:79
+#: public/partials/template-frontend-0.php:82
+#: public/partials/template-frontend-0.php:158
+#: public/partials/template-frontend-0.php:161
+#: agile-store-locator/public/partials/template-frontend-2.php:168
+#: agile-store-locator/public/partials/template-frontend-1.php:72
+#: agile-store-locator/public/partials/template-frontend-1.php:75
+#: agile-store-locator/public/partials/template-frontend-deal.php:42
+#: agile-store-locator/public/partials/template-frontend-deal.php:45
+#: agile-store-locator/public/partials/template-frontend-deal.php:176
+#: agile-store-locator/public/partials/template-frontend-deal.php:179
+#: agile-store-locator/public/partials/template-frontend-4.php:70
+#: agile-store-locator/public/partials/template-frontend-4.php:130
+#: agile-store-locator/public/partials/template-frontend-0.php:79
+#: agile-store-locator/public/partials/template-frontend-0.php:82
+#: agile-store-locator/public/partials/template-frontend-0.php:158
+#: agile-store-locator/public/partials/template-frontend-0.php:161
+msgid "Search Location"
+msgstr "Buscar lloc"
+
+#: admin/partials/attribute_special.php:40 admin/partials/categories.php:47
+#: admin/partials/markers.php:46 admin/partials/attribute.php:40
+#: admin/partials/logos.php:44 public/partials/template-frontend-list.php:75
+#: public/partials/template-frontend-list.php:77
+#: public/partials/template-frontend-1.php:102
+#: public/partials/template-frontend-1.php:104
+#: public/partials/template-frontend-deal.php:53
+#: public/partials/template-frontend-deal.php:54
+#: public/partials/template-frontend-4.php:79
+#: public/partials/template-frontend-4.php:81
+#: public/partials/template-frontend-0.php:92
+#: public/partials/template-frontend-0.php:94
+#: agile-store-locator/admin/partials/attribute_special.php:40
+#: agile-store-locator/admin/partials/categories.php:47
+#: agile-store-locator/admin/partials/markers.php:46
+#: agile-store-locator/admin/partials/attribute.php:40
+#: agile-store-locator/admin/partials/logos.php:44
+#: agile-store-locator/public/partials/template-frontend-list.php:75
+#: agile-store-locator/public/partials/template-frontend-list.php:77
+#: agile-store-locator/public/partials/template-frontend-1.php:102
+#: agile-store-locator/public/partials/template-frontend-1.php:104
+#: agile-store-locator/public/partials/template-frontend-deal.php:53
+#: agile-store-locator/public/partials/template-frontend-deal.php:54
+#: agile-store-locator/public/partials/template-frontend-4.php:79
+#: agile-store-locator/public/partials/template-frontend-4.php:81
+#: agile-store-locator/public/partials/template-frontend-0.php:92
+#: agile-store-locator/public/partials/template-frontend-0.php:94
+msgid "Search Name"
+msgstr ""
+
+#: admin/partials/manage_store.php:88
+#: agile-store-locator/admin/partials/manage_store.php:88
+msgid "Search Phone"
+msgstr ""
+
+#: admin/partials/manage_leads.php:65
+#: agile-store-locator/admin/partials/manage_leads.php:65
+msgid "Search Postal Code"
+msgstr ""
+
+#: admin/partials/manage_store.php:85
+#: agile-store-locator/admin/partials/manage_store.php:85
+msgid "Search State"
+msgstr ""
+
+#: admin/partials/manage_leads.php:66
+#: agile-store-locator/admin/partials/manage_leads.php:66
+msgid "Search Store Title"
+msgstr ""
+
+#: admin/partials/manage_store.php:84
+#: agile-store-locator/admin/partials/manage_store.php:84
+msgid "Search Street"
+msgstr ""
+
+#: admin/partials/manage_store.php:81
+#: agile-store-locator/admin/partials/manage_store.php:81
+msgid "Search Title"
+msgstr ""
+
+#: admin/partials/shortcode-popup-html.php:30
+#: includes/vendors/elementor/widget.php:156
+#: agile-store-locator/admin/partials/shortcode-popup-html.php:30
+#: agile-store-locator/includes/vendors/elementor/widget.php:156
+msgid "Search Type"
+msgstr ""
+
+#: admin/partials/manage_store.php:90
+#: agile-store-locator/admin/partials/manage_store.php:90
+msgid "Search URL"
+msgstr ""
+
+#: admin/partials/dashboard.php:321
+#: agile-store-locator/admin/partials/dashboard.php:321
+msgid "Search Widget"
+msgstr ""
+
+#: public/partials/template-frontend-list.php:43
+#: public/partials/asl-search.php:24
+#: agile-store-locator/public/partials/template-frontend-list.php:43
+#: agile-store-locator/public/partials/asl-search.php:24
+msgid "Search your Location"
+msgstr ""
+
+#: public/partials/template-frontend-4.php:68
+#: agile-store-locator/public/partials/template-frontend-4.php:68
+msgid "Search Your Nearest Location"
+msgstr ""
+
+#: admin/partials/manage_store.php:91
+#: agile-store-locator/admin/partials/manage_store.php:91
+msgid "Search Zip"
+msgstr ""
+
+#: includes/frontend/app.php:1726
+#: agile-store-locator/includes/frontend/app.php:1726
+msgid "Search!"
+msgstr ""
+
+#: admin/partials/dashboard.php:161
+#: agile-store-locator/admin/partials/dashboard.php:161
+msgid "Searches"
+msgstr ""
+
+#: admin/partials/dashboard.php:173
+#: agile-store-locator/admin/partials/dashboard.php:173
+msgid "See how your stores are performing in the selected duration."
+msgstr ""
+
+#: includes/frontend/app.php:712 public/partials/asl-store-form.php:132
+#: agile-store-locator/includes/frontend/app.php:712
+#: agile-store-locator/public/partials/asl-store-form.php:132
+msgid "Select"
+msgstr ""
+
+#: includes/frontend/app.php:549 includes/frontend/app.php:1727
+#: agile-store-locator/includes/frontend/app.php:549
+#: agile-store-locator/includes/frontend/app.php:1727
+msgid "Select a category"
+msgstr ""
+
+#: admin/partials/manage_leads.php:70 admin/partials/attribute_special.php:46
+#: admin/partials/categories.php:54 admin/partials/markers.php:51
+#: admin/partials/manage_store.php:99 admin/partials/attribute.php:46
+#: admin/partials/logos.php:49
+#: agile-store-locator/admin/partials/manage_leads.php:70
+#: agile-store-locator/admin/partials/attribute_special.php:46
+#: agile-store-locator/admin/partials/categories.php:54
+#: agile-store-locator/admin/partials/markers.php:51
+#: agile-store-locator/admin/partials/manage_store.php:99
+#: agile-store-locator/admin/partials/attribute.php:46
+#: agile-store-locator/admin/partials/logos.php:49
+msgid "Select All"
+msgstr ""
+
+#: includes/admin/manager.php:204 includes/frontend/app.php:550
+#: agile-store-locator/includes/admin/manager.php:204
+#: agile-store-locator/includes/frontend/app.php:550
+msgid "Select Brand"
+msgstr ""
+
+#: includes/vendors/wpbakery/store-grid.php:146
+#: includes/vendors/elementor/store-grid.php:180
+#: agile-store-locator/includes/vendors/wpbakery/store-grid.php:146
+#: agile-store-locator/includes/vendors/elementor/store-grid.php:180
+msgid "Select Categories"
+msgstr ""
+
+#: includes/frontend/app.php:553
+#: agile-store-locator/includes/frontend/app.php:553
+msgid "Select Category"
+msgstr ""
+
+#: admin/partials/add_store.php:116 admin/partials/edit_store.php:125
+#: includes/admin/manager.php:213 includes/frontend/app.php:1733
+#: agile-store-locator/admin/partials/add_store.php:116
+#: agile-store-locator/admin/partials/edit_store.php:125
+#: agile-store-locator/includes/admin/manager.php:213
+#: agile-store-locator/includes/frontend/app.php:1733
+msgid "Select Country"
+msgstr ""
+
+#: includes/frontend/app.php:1714
+#: agile-store-locator/includes/frontend/app.php:1714
+msgid "Select Distance"
+msgstr "Seleccionar distància"
+
+#: admin/partials/shortcode-popup-html.php:74
+#: agile-store-locator/admin/partials/shortcode-popup-html.php:74
+msgid "Select either 12 or 24 hours time format"
+msgstr ""
+
+#: includes/admin/manager.php:850
+#: agile-store-locator/includes/admin/manager.php:850
+msgid "Select Image"
+msgstr ""
+
+#: includes/vendors/elementor/widget.php:171
+#: agile-store-locator/includes/vendors/elementor/widget.php:171
+msgid "Select Layout"
+msgstr ""
+
+#: includes/admin/manager.php:209
+#: agile-store-locator/includes/admin/manager.php:209
+msgid "Select Logo"
+msgstr ""
+
+#: includes/admin/manager.php:211
+#: agile-store-locator/includes/admin/manager.php:211
+msgid "Select Marker"
+msgstr ""
+
+#: includes/frontend/app.php:541 includes/frontend/app.php:1692
+#: agile-store-locator/includes/frontend/app.php:541
+#: agile-store-locator/includes/frontend/app.php:1692
+msgid "Select Option"
+msgstr "Seleccionar opció"
+
+#: includes/frontend/app.php:551
+#: agile-store-locator/includes/frontend/app.php:551
+msgid "Select Region"
+msgstr ""
+
+#: includes/admin/manager.php:184 includes/admin/manager.php:185
+#: agile-store-locator/includes/admin/manager.php:184
+#: agile-store-locator/includes/admin/manager.php:185
+msgid "Select Some Options"
+msgstr ""
+
+#: includes/admin/manager.php:203
+#: agile-store-locator/includes/admin/manager.php:203
+msgid "Select Special"
+msgstr ""
+
+#: includes/frontend/app.php:1734
+#: agile-store-locator/includes/frontend/app.php:1734
+msgid "Select State"
+msgstr ""
+
+#: includes/frontend/app.php:1688
+#: agile-store-locator/includes/frontend/app.php:1688
+msgid "Select Store"
+msgstr ""
+
+#: admin/partials/shortcode-popup-html.php:18
+#: includes/vendors/elementor/widget.php:139
+#: agile-store-locator/admin/partials/shortcode-popup-html.php:18
+#: agile-store-locator/includes/vendors/elementor/widget.php:139
+msgid "Select Template"
+msgstr ""
+
+#: includes/frontend/app.php:547 includes/frontend/app.php:1702
+#: agile-store-locator/includes/frontend/app.php:547
+#: agile-store-locator/includes/frontend/app.php:1702
+msgid "selected"
+msgstr ""
+
+#: includes/admin/store.php:710
+#: agile-store-locator/includes/admin/store.php:710
+msgid "Selected Stores"
+msgstr ""
+
+#: includes/admin/import-export.php:87
+#: agile-store-locator/includes/admin/import-export.php:87
+msgid "Server Google API Key is Missing"
+msgstr ""
+
+#: includes/admin/import-export.php:90
+#: agile-store-locator/includes/admin/import-export.php:90
+msgid "Server Google API Key is not saved."
+msgstr ""
+
+#: admin/partials/import_store.php:64
+#: agile-store-locator/admin/partials/import_store.php:64
+msgid "Server Google Maps Key"
+msgstr ""
+
+#: includes/vendors/wpbakery/store-grid.php:139
+#: agile-store-locator/includes/vendors/wpbakery/store-grid.php:139
+msgid ""
+"Set max limit for items in grid or empty to display all (limited to 1000).\n"
+"                    "
+msgstr ""
+
+#: includes/admin/setting.php:168
+#: agile-store-locator/includes/admin/setting.php:168
+msgid "Setting has been updated successfully."
+msgstr ""
+
+#: includes/admin/manager.php:891
+#: agile-store-locator/includes/admin/manager.php:891
+msgid "Settings"
+msgstr ""
+
+#: includes/admin/setting.php:107
+#: agile-store-locator/includes/admin/setting.php:107
+msgid "Settings has been updated."
+msgstr ""
+
+#: includes/vendors/elementor/store-grid.php:194
+#: includes/vendors/elementor/store-grid.php:206
+#: includes/vendors/elementor/store-grid.php:218
+#: includes/vendors/elementor/store-grid.php:229
+#: agile-store-locator/includes/vendors/elementor/store-grid.php:194
+#: agile-store-locator/includes/vendors/elementor/store-grid.php:206
+#: agile-store-locator/includes/vendors/elementor/store-grid.php:218
+#: agile-store-locator/includes/vendors/elementor/store-grid.php:229
+msgid "Show"
+msgstr ""
+
+#: includes/vendors/elementor/store-grid.php:192
+#: agile-store-locator/includes/vendors/elementor/store-grid.php:192
+msgid "Show Address"
+msgstr ""
+
+#: public/partials/template-frontend-deal.php:125
+#: agile-store-locator/public/partials/template-frontend-deal.php:125
+msgid "Show Distance In"
+msgstr ""
+
+#: includes/vendors/elementor/store-grid.php:216
+#: agile-store-locator/includes/vendors/elementor/store-grid.php:216
+msgid "Show Email"
+msgstr ""
+
+#: admin/partials/manage_store.php:70
+#: agile-store-locator/admin/partials/manage_store.php:70
+#: agile-store-locator/admin/partials/manage_store.php:70
+msgid "Show Pending Stores"
+msgstr ""
+
+#: includes/vendors/elementor/store-grid.php:204
+#: agile-store-locator/includes/vendors/elementor/store-grid.php:204
+msgid "Show Phone"
+msgstr ""
+
+#: includes/vendors/wpbakery/store-grid.php:149
+#: agile-store-locator/includes/vendors/wpbakery/store-grid.php:149
+msgid "Show store state wise"
+msgstr ""
+
+#: includes/vendors/elementor/store-grid.php:227
+#: agile-store-locator/includes/vendors/elementor/store-grid.php:227
+msgid "Show URL Link"
+msgstr ""
+
+#: admin/partials/manage_store.php:56
+#: agile-store-locator/admin/partials/manage_store.php:56
+msgid "Show/Hide Columns"
+msgstr ""
+
+#: admin/partials/dashboard.php:68
+#: agile-store-locator/admin/partials/dashboard.php:68
+msgid "Simple"
+msgstr ""
+
+#: includes/vendors/elementor/widget.php:189
+#: agile-store-locator/includes/vendors/elementor/widget.php:189
+msgid "Slider"
+msgstr ""
+
+#: admin/partials/customize_map.php:16
+#: agile-store-locator/admin/partials/customize_map.php:16
+msgid "Solid"
+msgstr ""
+
+#: includes/admin/import-export.php:207
+#: agile-store-locator/includes/admin/import-export.php:207
+msgid "Some error occured"
+msgstr ""
+
+#: includes/frontend/app.php:1264
+#: agile-store-locator/includes/frontend/app.php:1264
+msgid "Sorry! there are no stores found!"
+msgstr ""
+
+#: includes/frontend/request.php:667
+#: agile-store-locator/includes/frontend/request.php:667
+msgid "Sorry! you have already submited the form."
+msgstr ""
+
+#: includes/admin/import-export.php:192
+#: agile-store-locator/includes/admin/import-export.php:192
+msgid "Sorry, file already exists."
+msgstr ""
+
+#: includes/admin/import-export.php:196
+#: agile-store-locator/includes/admin/import-export.php:196
+msgid "Sorry, only CSV files are allowed."
+msgstr ""
+
+#: includes/admin/base.php:213 agile-store-locator/includes/admin/base.php:213
+msgid "Sorry, only JPG, JPEG, PNG & GIF files are allowed."
+msgstr ""
+
+#: includes/admin/base.php:235 agile-store-locator/includes/admin/base.php:235
+msgid "Sorry, only KML files are allowed to import"
+msgstr ""
+
+#: includes/admin/base.php:201 agile-store-locator/includes/admin/base.php:201
+msgid "Sorry, your file is too large."
+msgstr ""
+
+#: public/partials/template-frontend-list.php:116
+#: agile-store-locator/public/partials/template-frontend-list.php:116
+msgid "Sort by"
+msgstr ""
+
+#: admin/partials/edit_store.php:192
+#: agile-store-locator/admin/partials/edit_store.php:192
+msgid "Special"
+msgstr ""
+
+#: includes/frontend/app.php:1729
+#: agile-store-locator/includes/frontend/app.php:1729
+msgid "special"
+msgstr ""
+
+#: public/partials/asl-store-form.php:88
+#: agile-store-locator/public/partials/asl-store-form.php:88
+msgid "Specialities"
+msgstr ""
+
+#: admin/partials/add_store.php:180
+#: agile-store-locator/admin/partials/add_store.php:180
+msgid "Speciality"
+msgstr ""
+
+#: public/partials/_agile_contact_modal.php:20
+#: public/partials/_agile_contact_modal.php:21
+#: agile-store-locator/public/partials/_agile_contact_modal.php:20
+#: agile-store-locator/public/partials/_agile_contact_modal.php:21
+msgid "star"
+msgstr ""
+
+#: public/partials/_agile_contact_modal.php:12
+#: public/partials/_agile_contact_modal.php:13
+#: public/partials/_agile_contact_modal.php:14
+#: public/partials/_agile_contact_modal.php:15
+#: public/partials/_agile_contact_modal.php:16
+#: public/partials/_agile_contact_modal.php:17
+#: public/partials/_agile_contact_modal.php:18
+#: public/partials/_agile_contact_modal.php:19
+#: agile-store-locator/public/partials/_agile_contact_modal.php:12
+#: agile-store-locator/public/partials/_agile_contact_modal.php:13
+#: agile-store-locator/public/partials/_agile_contact_modal.php:14
+#: agile-store-locator/public/partials/_agile_contact_modal.php:15
+#: agile-store-locator/public/partials/_agile_contact_modal.php:16
+#: agile-store-locator/public/partials/_agile_contact_modal.php:17
+#: agile-store-locator/public/partials/_agile_contact_modal.php:18
+#: agile-store-locator/public/partials/_agile_contact_modal.php:19
+msgid "stars"
+msgstr ""
+
+#: admin/partials/add_store.php:242 admin/partials/add_store.php:276
+#: admin/partials/add_store.php:309 admin/partials/add_store.php:342
+#: admin/partials/add_store.php:376 admin/partials/add_store.php:409
+#: admin/partials/add_store.php:443 admin/partials/edit_store.php:256
+#: admin/partials/edit_store.php:294 admin/partials/edit_store.php:331
+#: admin/partials/edit_store.php:368 admin/partials/edit_store.php:406
+#: admin/partials/edit_store.php:443 admin/partials/edit_store.php:481
+#: includes/admin/manager.php:208
+#: agile-store-locator/admin/partials/add_store.php:242
+#: agile-store-locator/admin/partials/add_store.php:276
+#: agile-store-locator/admin/partials/add_store.php:309
+#: agile-store-locator/admin/partials/add_store.php:342
+#: agile-store-locator/admin/partials/add_store.php:376
+#: agile-store-locator/admin/partials/add_store.php:409
+#: agile-store-locator/admin/partials/add_store.php:443
+#: agile-store-locator/admin/partials/edit_store.php:256
+#: agile-store-locator/admin/partials/edit_store.php:294
+#: agile-store-locator/admin/partials/edit_store.php:331
+#: agile-store-locator/admin/partials/edit_store.php:368
+#: agile-store-locator/admin/partials/edit_store.php:406
+#: agile-store-locator/admin/partials/edit_store.php:443
+#: agile-store-locator/admin/partials/edit_store.php:481
+#: agile-store-locator/includes/admin/manager.php:208
+msgid "Start Time"
+msgstr ""
+
+#: admin/partials/manage_store.php:106 admin/partials/add_store.php:104
+#: admin/partials/edit_store.php:113 includes/admin/store.php:1009
+#: includes/frontend/app.php:1682 public/partials/asl-store-form.php:116
+#: agile-store-locator/admin/partials/manage_store.php:106
+#: agile-store-locator/admin/partials/add_store.php:104
+#: agile-store-locator/admin/partials/edit_store.php:113
+#: agile-store-locator/includes/admin/store.php:1009
+#: agile-store-locator/includes/frontend/app.php:1682
+#: agile-store-locator/public/partials/asl-store-form.php:116
+msgid "State"
+msgstr ""
+
+#: includes/vendors/wpbakery/store-grid.php:178
+#: agile-store-locator/includes/vendors/wpbakery/store-grid.php:178
+msgid "State Filter"
+msgstr ""
+
+#: public/partials/template-frontend-list.php:121
+#: agile-store-locator/public/partials/template-frontend-list.php:121
+msgid "States"
+msgstr ""
+
+#: public/partials/template-frontend-2.php:106
+#: public/partials/template-frontend-deal.php:86
+#: public/partials/template-frontend-4.php:115
+#: public/partials/template-frontend-0.php:128
+#: agile-store-locator/public/partials/template-frontend-2.php:106
+#: agile-store-locator/public/partials/template-frontend-deal.php:86
+#: agile-store-locator/public/partials/template-frontend-4.php:115
+#: agile-store-locator/public/partials/template-frontend-0.php:128
+msgid "Status"
+msgstr ""
+
+#: admin/partials/manage_store.php:48
+#: agile-store-locator/admin/partials/manage_store.php:48
+msgid "Status Disable"
+msgstr ""
+
+#: admin/partials/manage_store.php:47
+#: agile-store-locator/admin/partials/manage_store.php:47
+msgid "Status Enable"
+msgstr ""
+
+#: admin/partials/manage_leads.php:76
+#: agile-store-locator/admin/partials/manage_leads.php:76
+msgid "Store"
+msgstr ""
+
+#: includes/admin/store.php:529
+#: agile-store-locator/includes/admin/store.php:529
+msgid "Store added successfully."
+msgstr ""
+
+#: admin/partials/add_store.php:79 admin/partials/edit_store.php:88
+#: agile-store-locator/admin/partials/add_store.php:79
+#: agile-store-locator/admin/partials/edit_store.php:88
+msgid "Store Address"
+msgstr ""
+
+#: includes/frontend/request.php:576
+#: agile-store-locator/includes/frontend/request.php:576
+msgid "Store Address: "
+msgstr ""
+
+#: includes/admin/store.php:906
+#: agile-store-locator/includes/admin/store.php:906
+msgid "Store Approved Successfully"
+msgstr ""
+
+#: includes/admin/store.php:677
+#: agile-store-locator/includes/admin/store.php:677
+msgid "Store deleted successfully."
+msgstr ""
+
+#: includes/frontend/app.php:1736
+#: agile-store-locator/includes/frontend/app.php:1736
+msgid "Store Details"
+msgstr ""
+
+#: public/partials/template-frontend-2.php:157
+#: public/partials/template-frontend-1.php:160
+#: public/partials/template-frontend-3.php:106
+#: public/partials/template-frontend-4.php:166
+#: public/partials/template-frontend-0.php:182
+#: agile-store-locator/public/partials/template-frontend-2.php:157
+#: agile-store-locator/public/partials/template-frontend-1.php:160
+#: agile-store-locator/public/partials/template-frontend-3.php:106
+#: agile-store-locator/public/partials/template-frontend-4.php:166
+#: agile-store-locator/public/partials/template-frontend-0.php:182
+msgid "Store Direction"
+msgstr ""
+
+#: includes/admin/store.php:458
+#: agile-store-locator/includes/admin/store.php:458
+msgid "Store duplicated successfully."
+msgstr ""
+
+#: includes/vendors/wpbakery/store-grid.php:123
+#: includes/vendors/elementor/store-grid.php:68
+#: agile-store-locator/includes/vendors/wpbakery/store-grid.php:123
+#: agile-store-locator/includes/vendors/elementor/store-grid.php:68
+msgid "Store Grid"
+msgstr ""
+
+#: admin/partials/dashboard.php:254 admin/partials/manage_store.php:101
+#: agile-store-locator/admin/partials/dashboard.php:254
+#: agile-store-locator/admin/partials/manage_store.php:101
+msgid "Store ID"
+msgstr ""
+
+#: public/partials/asl-store-form.php:19
+#: agile-store-locator/public/partials/asl-store-form.php:19
+msgid "STORE INFORMATION"
+msgstr ""
+
+#: includes/admin/store.php:776
+#: agile-store-locator/includes/admin/store.php:776
+msgid "Store is already approved."
+msgstr ""
+
+#: admin/partials/dashboard.php:310 includes/vendors/elementor/widget.php:44
+#: agile-store-locator/admin/partials/dashboard.php:310
+#: agile-store-locator/includes/vendors/elementor/widget.php:44
+msgid "Store Locator"
+msgstr ""
+
+#: includes/cron/store-cron.php:144
+#: agile-store-locator/includes/cron/store-cron.php:144
+msgid "Store Locator Cron Imported Files: "
+msgstr ""
+
+#: includes/model/lead.php:56 agile-store-locator/includes/model/lead.php:56
+msgid "Store Locator Lead Follow-up"
+msgstr ""
+
+#: includes/frontend/request.php:554 includes/frontend/request.php:693
+#: agile-store-locator/includes/frontend/request.php:554
+#: agile-store-locator/includes/frontend/request.php:693
+msgid "Store Locator Lead Request"
+msgstr ""
+
+#: admin/partials/manage_store.php:67
+#: agile-store-locator/admin/partials/manage_store.php:67
+msgid ""
+"Store Locator Listing columns can easily be updated by simply add/remove "
+"from the template, Please visit the link for more"
+msgstr ""
+
+#: admin/partials/shortcode-popup-html.php:6
+#: agile-store-locator/admin/partials/shortcode-popup-html.php:6
+msgid "Store Locator Shortcode"
+msgstr ""
+
+#: includes/admin/store.php:858
+#: agile-store-locator/includes/admin/store.php:858
+msgid "Store Locator Updates! New Store Registered"
+msgstr ""
+
+#: admin/partials/dashboard.php:332
+#: agile-store-locator/admin/partials/dashboard.php:332
+msgid "Store Registration Form"
+msgstr ""
+
+#: admin/partials/add_store.php:489 admin/partials/edit_store.php:528
+#: agile-store-locator/admin/partials/add_store.php:489
+#: agile-store-locator/admin/partials/edit_store.php:528
+msgid "Store Saved"
+msgstr ""
+
+#: admin/partials/add_store.php:81 admin/partials/edit_store.php:90
+#: agile-store-locator/admin/partials/add_store.php:81
+#: agile-store-locator/admin/partials/edit_store.php:90
+msgid "Store Timing"
+msgstr ""
+
+#: includes/admin/store.php:631
+#: agile-store-locator/includes/admin/store.php:631
+msgid "Store updated successfully."
+msgstr ""
+
+#: admin/partials/dashboard.php:122
+#: agile-store-locator/admin/partials/dashboard.php:122
+msgid "Stores"
+msgstr ""
+
+#: includes/admin/store.php:677
+#: agile-store-locator/includes/admin/store.php:677
+msgid "Stores deleted successfully."
+msgstr ""
+
+#: admin/partials/manage_store.php:105 admin/partials/add_store.php:94
+#: admin/partials/edit_store.php:103 includes/admin/store.php:994
+#: public/partials/asl-store-form.php:102
+#: agile-store-locator/admin/partials/manage_store.php:105
+#: agile-store-locator/admin/partials/add_store.php:94
+#: agile-store-locator/admin/partials/edit_store.php:103
+#: agile-store-locator/includes/admin/store.php:994
+#: agile-store-locator/public/partials/asl-store-form.php:102
+msgid "Street"
+msgstr ""
+
+#: public/partials/asl-lead-form.php:42
+#: public/partials/_agile_contact_modal.php:33
+#: agile-store-locator/public/partials/asl-lead-form.php:42
+#: agile-store-locator/public/partials/_agile_contact_modal.php:33
+msgid "Submit"
+msgstr ""
+
+#: admin/partials/categories.php:132 admin/partials/categories.php:188
+#: admin/partials/markers.php:118 admin/partials/markers.php:168
+#: admin/partials/manage_store.php:156 admin/partials/add_store.php:540
+#: admin/partials/add_store.php:590 admin/partials/edit_store.php:578
+#: admin/partials/edit_store.php:626 admin/partials/logos.php:118
+#: admin/partials/logos.php:165
+#: agile-store-locator/admin/partials/categories.php:132
+#: agile-store-locator/admin/partials/categories.php:188
+#: agile-store-locator/admin/partials/markers.php:118
+#: agile-store-locator/admin/partials/markers.php:168
+#: agile-store-locator/admin/partials/manage_store.php:156
+#: agile-store-locator/admin/partials/add_store.php:540
+#: agile-store-locator/admin/partials/add_store.php:590
+#: agile-store-locator/admin/partials/edit_store.php:578
+#: agile-store-locator/admin/partials/edit_store.php:626
+#: agile-store-locator/admin/partials/logos.php:118
+#: agile-store-locator/admin/partials/logos.php:165
+msgid "Submitting ..."
+msgstr ""
+
+#: public/partials/asl-lead-form.php:42
+#: public/partials/_agile_contact_modal.php:33
+#: agile-store-locator/public/partials/asl-lead-form.php:42
+#: agile-store-locator/public/partials/_agile_contact_modal.php:33
+msgid "Submitting..."
+msgstr ""
+
+#: includes/admin/store.php:309
+#: agile-store-locator/includes/admin/store.php:309
+msgid "Success! All coordinates looks correct values"
+msgstr ""
+
+#: includes/admin/store.php:934
+#: agile-store-locator/includes/admin/store.php:934
+msgid "Success! Store has been approved."
+msgstr ""
+
+#: includes/admin/store.php:740
+#: agile-store-locator/includes/admin/store.php:740
+msgid "Success! Store is approved and registered into the listing."
+msgstr ""
+
+#: includes/frontend/request.php:882
+#: agile-store-locator/includes/frontend/request.php:882
+msgid "Success! Store is registered successfully."
+msgstr ""
+
+#: includes/helper.php:958 includes/helper.php:1033
+#: includes/frontend/request.php:302 includes/frontend/app.php:1749
+#: agile-store-locator/includes/helper.php:958
+#: agile-store-locator/includes/helper.php:1033
+#: agile-store-locator/includes/frontend/request.php:302
+#: agile-store-locator/includes/frontend/app.php:1749
+msgid "Sun"
+msgstr ""
+
+#: admin/partials/add_store.php:438 admin/partials/edit_store.php:473
+#: agile-store-locator/admin/partials/add_store.php:438
+#: agile-store-locator/admin/partials/edit_store.php:473
+msgid "Sunday"
+msgstr ""
+
+#: admin/partials/dashboard.php:370
+#: agile-store-locator/admin/partials/dashboard.php:370
+msgid "Support Multiple Languages & Localization"
+msgstr ""
+
+#: admin/partials/dashboard.php:389
+#: agile-store-locator/admin/partials/dashboard.php:389
+msgid "Support status"
+msgstr ""
+
+#: admin/partials/ui-customizer.php:16 admin/partials/ui-customizer.php:19
+#: admin/partials/ui-customizer.php:20 admin/partials/ui-customizer.php:21
+#: admin/partials/ui-customizer.php:22 admin/partials/ui-customizer.php:23
+#: agile-store-locator/admin/partials/ui-customizer.php:16
+#: agile-store-locator/admin/partials/ui-customizer.php:19
+#: agile-store-locator/admin/partials/ui-customizer.php:20
+#: agile-store-locator/admin/partials/ui-customizer.php:21
+#: agile-store-locator/admin/partials/ui-customizer.php:22
+#: agile-store-locator/admin/partials/ui-customizer.php:23
+msgid "Template"
+msgstr ""
+
+#: admin/partials/shortcode-popup-html.php:21
+#: includes/vendors/elementor/widget.php:143
+#: agile-store-locator/admin/partials/shortcode-popup-html.php:21
+#: agile-store-locator/includes/vendors/elementor/widget.php:143
+msgid "Template 0"
+msgstr ""
+
+#: admin/partials/shortcode-popup-html.php:22
+#: includes/vendors/elementor/widget.php:144
+#: agile-store-locator/admin/partials/shortcode-popup-html.php:22
+#: agile-store-locator/includes/vendors/elementor/widget.php:144
+msgid "Template 1"
+msgstr ""
+
+#: admin/partials/shortcode-popup-html.php:23
+#: includes/vendors/elementor/widget.php:145
+#: agile-store-locator/admin/partials/shortcode-popup-html.php:23
+#: agile-store-locator/includes/vendors/elementor/widget.php:145
+msgid "Template 2"
+msgstr ""
+
+#: admin/partials/shortcode-popup-html.php:24
+#: includes/vendors/elementor/widget.php:146
+#: agile-store-locator/admin/partials/shortcode-popup-html.php:24
+#: agile-store-locator/includes/vendors/elementor/widget.php:146
+msgid "Template 3"
+msgstr ""
+
+#: includes/vendors/elementor/widget.php:147
+#: agile-store-locator/includes/vendors/elementor/widget.php:147
+msgid "Template 4"
+msgstr ""
+
+#: includes/helper.php:817 agile-store-locator/includes/helper.php:817
+msgid "Template file moved to theme directory."
+msgstr ""
+
+#: includes/helper.php:851 agile-store-locator/includes/helper.php:851
+msgid "Template file removed from the theme directory."
+msgstr ""
+
+#: includes/admin/setting.php:267
+#: agile-store-locator/includes/admin/setting.php:267
+msgid "Template has no infobox."
+msgstr ""
+
+#: admin/partials/ui-customizer.php:24
+#: includes/vendors/elementor/widget.php:148
+#: agile-store-locator/admin/partials/ui-customizer.php:24
+#: agile-store-locator/includes/vendors/elementor/widget.php:148
+msgid "Template List"
+msgstr ""
+
+#: admin/partials/shortcode-popup-html.php:25
+#: agile-store-locator/admin/partials/shortcode-popup-html.php:25
+msgid "Template list"
+msgstr ""
+
+#: includes/admin/setting.php:706
+#: agile-store-locator/includes/admin/setting.php:706
+msgid "Template UI settings updated"
+msgstr ""
+
+#: includes/admin/setting.php:343
+#: agile-store-locator/includes/admin/setting.php:343
+msgid "Template Updated"
+msgstr ""
+
+#: includes/admin/setting.php:731
+#: agile-store-locator/includes/admin/setting.php:731
+msgid "Template updated"
+msgstr ""
+
+#: includes/admin/manager.php:223
+#: agile-store-locator/includes/admin/manager.php:223
+msgid ""
+"Thank you for purchasing <b>Store Locator for WordPress</b> Plugin, kindly "
+"enter your purchase code to unlock the page. <a target=\"_blank\" "
+"href=\"https://agilestorelocator.com/wiki/store-locator-purchase-code/\">How "
+"to Get My Purchase Code?</a>"
+msgstr ""
+
+#: includes/frontend/request.php:599 includes/frontend/request.php:730
+#: agile-store-locator/includes/frontend/request.php:599
+#: agile-store-locator/includes/frontend/request.php:730
+msgid "Thank you! we have received your request."
+msgstr ""
+
+#: includes/admin/import-export.php:201
+#: agile-store-locator/includes/admin/import-export.php:201
+msgid "The file has been uploaded."
+msgstr ""
+
+#: admin/partials/customize_map.php:98
+#: agile-store-locator/admin/partials/customize_map.php:98
+msgid "The List of KML Files"
+msgstr ""
+
+#: includes/model/lead.php:65 agile-store-locator/includes/model/lead.php:65
+msgid "This is a follow-up email for the store: "
+msgstr ""
+
+#: includes/helper.php:958 includes/helper.php:1033
+#: includes/frontend/request.php:302 includes/frontend/app.php:1749
+#: agile-store-locator/includes/helper.php:958
+#: agile-store-locator/includes/helper.php:1033
+#: agile-store-locator/includes/frontend/request.php:302
+#: agile-store-locator/includes/frontend/app.php:1749
+msgid "Thur"
+msgstr ""
+
+#: admin/partials/add_store.php:337 admin/partials/edit_store.php:360
+#: agile-store-locator/admin/partials/add_store.php:337
+#: agile-store-locator/admin/partials/edit_store.php:360
+msgid "Thursday"
+msgstr ""
+
+#: admin/partials/shortcode-popup-html.php:66
+#: agile-store-locator/admin/partials/shortcode-popup-html.php:66
+msgid "Time Format"
+msgstr ""
+
+#: admin/partials/manage_store.php:102 admin/partials/add_store.php:43
+#: admin/partials/edit_store.php:52 admin/partials/import_store.php:109
+#: includes/admin/store.php:969 public/partials/template-frontend-list.php:119
+#: agile-store-locator/admin/partials/manage_store.php:102
+#: agile-store-locator/admin/partials/add_store.php:43
+#: agile-store-locator/admin/partials/edit_store.php:52
+#: agile-store-locator/admin/partials/import_store.php:109
+#: agile-store-locator/includes/admin/store.php:969
+#: agile-store-locator/public/partials/template-frontend-list.php:119
+msgid "Title"
+msgstr ""
+
+#: includes/admin/store.php:872 includes/admin/store.php:910
+#: agile-store-locator/includes/admin/store.php:872
+#: agile-store-locator/includes/admin/store.php:910
+msgid "Title: "
+msgstr ""
+
+#: public/partials/_agile_modal.php:14
+#: public/partials/template-frontend-deal.php:121
+#: agile-store-locator/public/partials/_agile_modal.php:14
+#: agile-store-locator/public/partials/template-frontend-deal.php:121
+msgid "To"
+msgstr "a"
+
+#: admin/partials/dashboard.php:177
+#: agile-store-locator/admin/partials/dashboard.php:177
+msgid "Top Views"
+msgstr ""
+
+#: includes/vendors/wpbakery/store-grid.php:136
+#: includes/vendors/elementor/store-grid.php:169
+#: agile-store-locator/includes/vendors/wpbakery/store-grid.php:136
+#: agile-store-locator/includes/vendors/elementor/store-grid.php:169
+msgid "Total items"
+msgstr ""
+
+#: admin/partials/customize_map.php:130
+#: agile-store-locator/admin/partials/customize_map.php:130
+msgid "Traffic Layer"
+msgstr ""
+
+#: admin/partials/customize_map.php:139
+#: agile-store-locator/admin/partials/customize_map.php:139
+msgid "Transit Layer"
+msgstr ""
+
+#: admin/partials/manage_leads.php:10 admin/partials/attribute_special.php:10
+#: admin/partials/categories.php:10 admin/partials/add_store.php:15
+#: admin/partials/edit_store.php:15 admin/partials/import_store.php:22
+#: admin/partials/attribute.php:10 admin/partials/logos.php:10
+#: agile-store-locator/admin/partials/manage_leads.php:10
+#: agile-store-locator/admin/partials/attribute_special.php:10
+#: agile-store-locator/admin/partials/categories.php:10
+#: agile-store-locator/admin/partials/add_store.php:15
+#: agile-store-locator/admin/partials/edit_store.php:15
+#: agile-store-locator/admin/partials/import_store.php:22
+#: agile-store-locator/admin/partials/attribute.php:10
+#: agile-store-locator/admin/partials/logos.php:10
+msgid "Trash"
+msgstr ""
+
+#: includes/admin/manager.php:215
+#: agile-store-locator/includes/admin/manager.php:215
+msgid "Truncate Stores Table"
+msgstr ""
+
+#: admin/partials/dashboard.php:368
+#: agile-store-locator/admin/partials/dashboard.php:368
+msgid "Try Multiple Layouts with Listing and Accordion"
+msgstr ""
+
+#: includes/helper.php:958 includes/helper.php:1033
+#: includes/frontend/request.php:302 includes/frontend/app.php:1749
+#: agile-store-locator/includes/helper.php:958
+#: agile-store-locator/includes/helper.php:1033
+#: agile-store-locator/includes/frontend/request.php:302
+#: agile-store-locator/includes/frontend/app.php:1749
+msgid "Tues"
+msgstr ""
+
+#: admin/partials/add_store.php:271 admin/partials/edit_store.php:286
+#: agile-store-locator/admin/partials/add_store.php:271
+#: agile-store-locator/admin/partials/edit_store.php:286
+msgid "Tuesday"
+msgstr ""
+
+#: admin/partials/shortcode-popup-html.php:48
+#: agile-store-locator/admin/partials/shortcode-popup-html.php:48
+msgid "Type your Location Modal"
+msgstr ""
+
+#: admin/partials/categories.php:85 admin/partials/categories.php:132
+#: agile-store-locator/admin/partials/categories.php:85
+#: agile-store-locator/admin/partials/categories.php:132
+msgid "Update Category"
+msgstr ""
+
+#: admin/partials/logos.php:74 admin/partials/logos.php:118
+#: agile-store-locator/admin/partials/logos.php:74
+#: agile-store-locator/admin/partials/logos.php:118
+msgid "Update Logo"
+msgstr ""
+
+#: admin/partials/markers.php:76 admin/partials/markers.php:118
+#: agile-store-locator/admin/partials/markers.php:76
+#: agile-store-locator/admin/partials/markers.php:118
+msgid "Update Marker"
+msgstr ""
+
+#: admin/partials/edit_store.php:528
+#: agile-store-locator/admin/partials/edit_store.php:528
+msgid "Update Store"
+msgstr ""
+
+#: includes/admin/attribute.php:158
+#: agile-store-locator/includes/admin/attribute.php:158
+msgid "Updated Successfully"
+msgstr ""
+
+#: admin/partials/markers.php:168 admin/partials/add_store.php:540
+#: admin/partials/add_store.php:590 admin/partials/edit_store.php:578
+#: admin/partials/edit_store.php:626 admin/partials/import_store.php:90
+#: admin/partials/logos.php:165
+#: agile-store-locator/admin/partials/markers.php:168
+#: agile-store-locator/admin/partials/add_store.php:540
+#: agile-store-locator/admin/partials/add_store.php:590
+#: agile-store-locator/admin/partials/edit_store.php:578
+#: agile-store-locator/admin/partials/edit_store.php:626
+#: agile-store-locator/admin/partials/import_store.php:90
+#: agile-store-locator/admin/partials/logos.php:165
+msgid "Upload"
+msgstr ""
+
+#: admin/partials/import_store.php:174
+#: agile-store-locator/admin/partials/import_store.php:174
+msgid "Upload CSV File"
+msgstr ""
+
+#: includes/admin/manager.php:187
+#: agile-store-locator/includes/admin/manager.php:187
+msgid "Upload Failed! Please try Again."
+msgstr ""
+
+#: admin/partials/import_store.php:205
+#: agile-store-locator/admin/partials/import_store.php:205
+msgid "Upload File"
+msgstr ""
+
+#: admin/partials/customize_map.php:88
+#: agile-store-locator/admin/partials/customize_map.php:88
+msgid "Upload KML"
+msgstr ""
+
+#: admin/partials/add_store.php:506 admin/partials/edit_store.php:545
+#: admin/partials/logos.php:132
+#: agile-store-locator/admin/partials/add_store.php:506
+#: agile-store-locator/admin/partials/edit_store.php:545
+#: agile-store-locator/admin/partials/logos.php:132
+msgid "Upload Logo"
+msgstr ""
+
+#: admin/partials/markers.php:132 admin/partials/add_store.php:556
+#: admin/partials/edit_store.php:594
+#: agile-store-locator/admin/partials/markers.php:132
+#: agile-store-locator/admin/partials/add_store.php:556
+#: agile-store-locator/admin/partials/edit_store.php:594
+msgid "Upload Marker"
+msgstr ""
+
+#: admin/partials/categories.php:39
+#: agile-store-locator/admin/partials/categories.php:39
+msgid ""
+"Upload SVG File for Categories if you are using Template 2. To sort "
+"categories by the Order ID, please use shortcode attribute "
+"cat_sort=\"order\", example: [ASL_STORELOCATOR cat_sort=\"ordr\"]"
+msgstr ""
+
+#: admin/partials/manage_store.php:111
+#: agile-store-locator/admin/partials/manage_store.php:111
+msgid "URL"
+msgstr ""
+
+#: admin/partials/dashboard.php:367
+#: agile-store-locator/admin/partials/dashboard.php:367
+msgid "Use 5 Beautiful Store Locator Themes"
+msgstr ""
+
+#: includes/admin/manager.php:210
+#: agile-store-locator/includes/admin/manager.php:210
+msgid "Use Image"
+msgstr ""
+
+#: public/partials/_agile_modal.php:57
+#: public/partials/template-frontend-deal.php:164
+#: agile-store-locator/public/partials/_agile_modal.php:57
+#: agile-store-locator/public/partials/template-frontend-deal.php:164
+msgid "USE LOCATION"
+msgstr "Usar la meua ubicació "
+
+#: public/partials/_agile_modal.php:53
+#: public/partials/template-frontend-deal.php:161
+#: agile-store-locator/public/partials/_agile_modal.php:53
+#: agile-store-locator/public/partials/template-frontend-deal.php:161
+msgid "Use my location to find the closest Service Provider near me"
+msgstr "Usar la meua ubicació per trobar el servei més pròxim a mi"
+
+#: includes/frontend/app.php:1725
+#: agile-store-locator/includes/frontend/app.php:1725
+msgid "User denied geo-location, check preferences."
+msgstr ""
+
+#: includes/admin/import-export.php:78
+#: agile-store-locator/includes/admin/import-export.php:78
+msgid "Valid API Key"
+msgstr ""
+
+#: admin/partials/manage_store.php:61
+#: agile-store-locator/admin/partials/manage_store.php:61
+msgid "Validate Coordinates"
+msgstr ""
+
+#: admin/partials/import_store.php:69
+#: agile-store-locator/admin/partials/import_store.php:69
+msgid "Validate Key"
+msgstr ""
+
+#: admin/partials/manage_store.php:61 admin/partials/import_store.php:69
+#: agile-store-locator/admin/partials/manage_store.php:61
+#: agile-store-locator/admin/partials/import_store.php:69
+msgid "Validating..."
+msgstr ""
+
+#: admin/partials/dashboard.php:99
+#: agile-store-locator/admin/partials/dashboard.php:99
+msgid "Video Tutorial"
+msgstr ""
+
+#: admin/partials/import_store.php:135
+#: agile-store-locator/admin/partials/import_store.php:135
+msgid "View"
+msgstr ""
+
+#: admin/partials/dashboard.php:264 admin/partials/dashboard.php:284
+#: agile-store-locator/admin/partials/dashboard.php:264
+#: agile-store-locator/admin/partials/dashboard.php:284
+msgid "Views"
+msgstr ""
+
+#: admin/partials/dashboard.php:357
+#: agile-store-locator/admin/partials/dashboard.php:357
+msgid "Want To Upgrade Plugin?"
+msgstr ""
+
+#: admin/partials/manage_leads.php:21 admin/partials/attribute_special.php:18
+#: admin/partials/categories.php:18 admin/partials/attribute.php:18
+#: agile-store-locator/admin/partials/manage_leads.php:21
+#: agile-store-locator/admin/partials/attribute_special.php:18
+#: agile-store-locator/admin/partials/categories.php:18
+#: agile-store-locator/admin/partials/attribute.php:18
+msgid "Warning"
+msgstr ""
+
+#: admin/partials/edit_store.php:45
+#: agile-store-locator/admin/partials/edit_store.php:45
+msgid "Warning!"
+msgstr ""
+
+#: admin/partials/ui-customizer.php:26
+#: agile-store-locator/admin/partials/ui-customizer.php:26
+msgid "WC Addon"
+msgstr ""
+
+#: admin/partials/add_store.php:48 admin/partials/edit_store.php:57
+#: includes/admin/store.php:1014 includes/frontend/app.php:540
+#: includes/frontend/app.php:711 includes/frontend/app.php:813
+#: includes/frontend/app.php:1691 public/partials/asl-store-grid.php:36
+#: public/partials/asl-store-page.php:89
+#: agile-store-locator/admin/partials/add_store.php:48
+#: agile-store-locator/admin/partials/edit_store.php:57
+#: agile-store-locator/includes/admin/store.php:1014
+#: agile-store-locator/includes/frontend/app.php:540
+#: agile-store-locator/includes/frontend/app.php:711
+#: agile-store-locator/includes/frontend/app.php:813
+#: agile-store-locator/includes/frontend/app.php:1691
+#: agile-store-locator/public/partials/asl-store-grid.php:36
+#: agile-store-locator/public/partials/asl-store-page.php:89
+msgid "Website"
+msgstr ""
+
+#: public/partials/asl-store-form.php:38
+#: agile-store-locator/public/partials/asl-store-form.php:38
+msgid "Website URL"
+msgstr ""
+
+#: includes/helper.php:958 includes/helper.php:1033
+#: includes/frontend/request.php:302 includes/frontend/app.php:1749
+#: agile-store-locator/includes/helper.php:958
+#: agile-store-locator/includes/helper.php:1033
+#: agile-store-locator/includes/frontend/request.php:302
+#: agile-store-locator/includes/frontend/app.php:1749
+msgid "Wed"
+msgstr ""
+
+#: admin/partials/add_store.php:304 admin/partials/edit_store.php:323
+#: agile-store-locator/admin/partials/add_store.php:304
+#: agile-store-locator/admin/partials/edit_store.php:323
+msgid "Wednesday"
+msgstr ""
+
+#: includes/frontend/app.php:1732
+#: agile-store-locator/includes/frontend/app.php:1732
+msgid "Within"
+msgstr ""
+
+#: admin/partials/add_store.php:83 admin/partials/edit_store.php:92
+#: agile-store-locator/admin/partials/add_store.php:83
+#: agile-store-locator/admin/partials/edit_store.php:92
+msgid "WooCommerce"
+msgstr ""
+
+#: admin/partials/add_store.php:219 admin/partials/edit_store.php:228
+#: agile-store-locator/admin/partials/add_store.php:219
+#: agile-store-locator/admin/partials/edit_store.php:228
+msgid "Yes"
+msgstr ""
+
+#: admin/partials/dashboard.php:311
+#: agile-store-locator/admin/partials/dashboard.php:311
+msgid ""
+"You can leverage store locators in multiple themes, layouts, color schemes, "
+"and language that you can easily personalize."
+msgstr ""
+
+#: admin/partials/manage_store.php:70
+#: agile-store-locator/admin/partials/manage_store.php:70
+msgid "You have pending stores to approve them."
+msgstr ""
+
+#: public/partials/_agile_modal.php:44
+#: public/partials/template-frontend-deal.php:152
+#: agile-store-locator/public/partials/_agile_modal.php:44
+#: agile-store-locator/public/partials/template-frontend-deal.php:152
+msgid "Your Address"
+msgstr "Adreça"
+
+#: includes/frontend/app.php:1704
+#: agile-store-locator/includes/frontend/app.php:1704
+msgid "Your Current Location"
+msgstr ""
+
+#: includes/frontend/app.php:552
+#: agile-store-locator/includes/frontend/app.php:552
+msgid "Your Geo Location"
+msgstr ""
+
+#: public/partials/asl-lead-form.php:33
+#: agile-store-locator/public/partials/asl-lead-form.php:33
+msgid "Zip Code"
+msgstr ""
+
+#: includes/frontend/app.php:1690
+#: agile-store-locator/includes/frontend/app.php:1690
+msgid "Zoom"
+msgstr ""

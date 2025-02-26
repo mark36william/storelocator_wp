@@ -1,0 +1,65 @@
+<li class="sl-item" data-id="{{:id}}">
+    <div class="sl-item-top">
+        <div class="sl-item-top-left">
+            {{if path}}
+            <div class="asl-logo-box">
+                <img src="{{:URL}}Logo/{{:path}}" alt="logo" class="img-fluid">
+            </div>
+            {{/if}}
+            <div class="asl-item-box">
+                <h2>
+                    <a>{{:title}}</a>
+                    {{if dist_str}}<span>{{:dist_str}}</span>{{/if}}
+                </h2>
+                {{if categories}}
+                    <div class="sl-cat-tag">
+                        <ul>
+                        {{for categories}}
+                            <li>{{:name}}</li>
+                        {{/for}}
+                        </ul>
+                    </div>
+                {{/if}}
+                <div class="addr-loc">
+                    <ul>
+                        <li>
+                            <span>{{:address}}</span>
+                        </li>
+                        {{if phone}}
+                        <li>
+                            <i class="icon-mobile-1"></i>
+                            <a href="tel:{{:phone}}">{{:phone}}</a>
+                        </li>
+                        {{/if}}
+                        {{if email}}
+                        <li>
+                            <i class="icon-mail"></i>
+                            <a href="mailto:{{:email}}">{{:email}}</a>
+                        </li>
+                        {{/if}}
+                        {{if open_hours}}
+                        <li>
+                            <i class="icon-clock"></i>
+                            <span class="txt-hours">{{:open_hours}}</span>
+                        </li>
+                        {{/if}}
+                    </ul>
+                </div>
+                {{:social_icons}}
+            </div>
+        </div>
+        <div class="sl-item-top-right">
+            <ul>
+                <li class="sl-direction"><a class="s-direction">[Directions]</a></li>
+                {{if link}}
+                    <li><a  href="{{:link}}" class="web-btn">[Website]</a></li>
+                {{/if}}
+            </ul>
+        </div>
+    </div>
+    {{if description}}
+    <div class="sl-item-desc">
+        <p>{{:description}}</p>
+    </div>
+    {{/if}}
+</li>

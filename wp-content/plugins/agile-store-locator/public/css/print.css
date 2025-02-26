@@ -1,0 +1,12 @@
+* {font-family: helvetica, verdana,impact;}
+a, p,div {margin: 0px;padding: 0px;color: #999;font-size: 14px;}
+a {text-decoration: none;}
+p {margin-bottom: 3px;}
+p.p-title {margin-bottom: 5px;font-size: 16px;font-weight: bold;}
+div {margin-bottom: 5px;}
+img {max-width: 100px;max-height: 120px;position: absolute;right: 20px; left: auto;top: 0px}
+.btn {display: none;}
+.sl-item {border-bottom: 1px solid #EEE;margin-bottom: 10px;position: relative;min-height: 140px;page-break-inside: avoid;}
+.sl-item:last-child {border-bottom: none !important;}
+.sl-item li {max-width: calc(100% - 250px);}
+.asl-overlay, .directions-cont {display: none;}

@@ -1,0 +1,83 @@
+<li class="sl-item" data-id="{{:id}}">
+<div class="sl-addr-sec">
+    <div class="sl-row addr-loc">
+        <div class="{{if path}}pol-sm-8 pol-8 pr-0{{else}}pol-12{{/if}}">
+            <h3>{{:title}}</h3>
+            <ul>
+                <li class="sl-addr">
+                    <i class="icon-location-1"></i>  
+                    <span>{{:address}}</span>
+                </li>
+                {{if phone}}
+                <li class="sl-phone">
+                    <i class="icon-mobile"></i>
+                    <a href="tel:{{:phone}}">{{:phone}}</a>
+                </li>
+                {{/if}}
+                {{if email}}
+                <li class="sl-email">
+                    <i class="icon-mail"></i>
+                    <a href="mailto:{{:email}}">{{:email}}</a>
+                </li>
+                {{/if}}
+                {{if open_hours}}
+                <li class="sl-hours">
+                    <i class="icon-clock"></i>
+                    <span class="txt-hours">{{:open_hours}}</span>
+                </li>
+                {{/if}}
+                {{if c_names}}
+                <li class="sl-categories">
+                   <i class="icon-tag"></i>
+                   <ul class="inner-cat-list">
+                      {{for categories}}
+                      <li>
+                         <span>{{:name}}</span>
+                      </li>
+                      {{/for}}
+                   </ul>
+                </li>
+                {{/if}}
+            </ul>
+        </div>
+        {{if path}}
+        <div class="pol-sm-4 pol-4">
+            <div class="sl-logo-cont">
+                <div class="sl-logo-box">
+                    <img src="{{:URL}}Logo/{{:path}}">
+                </div>
+            </div>
+        </div>
+        {{/if}}
+    </div>
+    {{if description}}
+    <div class="sl-row sl-desc">
+      {{if desc_link}}
+      <div class="pol-12"><a class="sl-link">[View Description]</a></div>
+      {{else}}
+      <div class="pol-12"><p>{{:description}}</p></div>
+      {{/if}}
+    </div>
+    {{/if}}
+    {{:social_icons}}
+    <div class="sl-act-btns mt-3">
+        <div class="sl-row align-items-center no-gutters pl-1">
+            <div class="pol sl-direction">
+                <a class="btn btn-asl s-direction">[Directions]</a>
+            </div>
+            {{if link}}
+            <div class="pol sl-site-link">
+                <a target="{{:target}}" class="s-visit-website" href="{{:link}}">[Website]</a>
+            </div>
+            {{/if}}
+            {{if dist_str}}
+            <div class="pol sl-dist text-right">
+            <div class="sl-miles">
+                <span class="s-distance">{{:dist_str}}</span>
+            </div>
+            </div>
+            {{/if}}
+        </div>
+    </div>
+ </div>
+</li>

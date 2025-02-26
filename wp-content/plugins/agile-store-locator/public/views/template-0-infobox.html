@@ -1,0 +1,68 @@
+{{if path}}
+<div class="image_map_popup" style="display:none"><img src="{{:URL}}Logo/{{:path}}" /></div>
+{{/if}}
+<h3>{{:title}}</h3>
+<div class="infowindowContent">
+<div class="sl-row sl-addr-sec">
+   <div class="{{if path}}pol-sm-8 pol-8{{else}}pol-md-12{{/if}}">
+      <span class="sl-tag">{{:address}}</span>
+   </div>
+   {{if path}}
+   <div class="pl-0 pol-md-4 pol-4">
+     <div class="img_box" style="display:none">
+       <img src="{{:URL}}Logo/{{:path}}" alt="logo">
+     </div>
+   </div>
+   {{/if}}
+</div>
+<div class="info-addr">
+   <div class="sl-row">
+      {{if email}}
+      <div class="pol-md-12 pol-sm-12">
+         <div class="info-addr-inner">
+            <i class="icon-at"></i>
+            <a href="mailto:{{:email}}">{{:email}}</a>
+         </div>
+      </div>
+      {{/if}}
+      {{if dist_str}}
+      <div class="pol-6">
+         <div class="info-addr-inner">
+            <i class="icon-location-1"></i>
+            <a>{{:dist_str}}</a>
+         </div>
+      </div>
+      {{/if}}
+      {{if phone}}
+      <div class="pol-12">
+         <div class="info-addr-inner">
+            <i class="icon-mobile"></i>
+            <a href="tel:{{:phone}}">{{:phone}}</a>
+         </div>
+      </div>
+      {{/if}}
+      {{if open_hours}}
+      <div class="pol-12">
+         <div class="info-addr-inner">
+            <i class="icon-clock"></i>
+            <span class="txt-hours">{{:open_hours}}</span>
+         </div>
+      </div>
+      {{/if}}
+      {{if days_str}}
+      <div class="pol-12">
+         <div class="info-addr-inner">
+            <i class="icon-calendar"></i>
+            <span class="txt-hours">{{:days_str}}</span>
+         </div>
+      </div>
+      {{/if}}
+   </div>
+</div>
+{{if description}}
+<p class="short-desc">{{:description}}</p>
+{{/if}}
+<div class="asl-buttons asl-btn-full">
+</div>
+<div class="arrow-down"></div>
+</div>

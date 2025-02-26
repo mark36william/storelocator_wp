@@ -1,0 +1,1 @@
+!function(i,n){i(document).ready((function(){n.addFilter("wu_before_form_init","nextpress/wp-ultimo",(function(i){return void 0!==i&&(i.billing_option=1,i.default_billing_option=12),i}))}))}(jQuery,wp.hooks);
