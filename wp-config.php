@@ -27,7 +27,7 @@ define( 'DB_NAME', 'wp_storelocator' );
 define( 'DB_USER', 'root' );
 
 /** Database password */
-define( 'DB_PASSWORD', 'vertirgo' );
+define( 'DB_PASSWORD', 'vertrigo' );
 
 /** Database hostname */
 define( 'DB_HOST', 'localhost' );
@@ -80,15 +80,15 @@ $table_prefix = 'wphg_';
  *
  * @link https://wordpress.org/documentation/article/debugging-in-wordpress/
  */
-define( 'WP_DEBUG', false );
+define( 'WP_DEBUG', true );
 
 /* Add any custom values between this line and the "stop editing" line. */
-define( 'MULTISITE', true );
-define( 'SUBDOMAIN_INSTALL', false );
-define( 'DOMAIN_CURRENT_SITE', 'storelocator.knowledge-window.com' );
-define( 'PATH_CURRENT_SITE', '/' );
-define( 'SITE_ID_CURRENT_SITE', 1 );
-define( 'BLOG_ID_CURRENT_SITE', 1 );
+// define( 'MULTISITE', true );
+// define( 'SUBDOMAIN_INSTALL', true );
+// define( 'DOMAIN_CURRENT_SITE', 'localhost/wp_storelocator' );
+// define( 'PATH_CURRENT_SITE', '/' );
+// define( 'SITE_ID_CURRENT_SITE', 1 );
+// define( 'BLOG_ID_CURRENT_SITE', 1 );
 
 
 /* That's all, stop editing! Happy publishing. */
